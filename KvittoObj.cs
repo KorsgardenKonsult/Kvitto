@@ -75,6 +75,5 @@ namespace Kvitto
         public string tagSlag { get; set; }
         public Korplan korPlan { get; set; }
         public Anm[] anm { get; set; }
-        //gruck
     }
 }
