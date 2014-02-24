@@ -1,0 +1,97 @@
+Från:	trainplan@trafikverket.se
+Skickat:	den 1 augusti 2013 13:51
+Till:	Tidtabeller Dlc Malmö
+Ämne:	[NR 1748261] T13.1 (M) - TÅG 33597
+
+
+TL -- T13.1 -- Trafikverket - NR 1748261 -- 1 aug 2013 13:51:11  -- BLANKETT 
+22
+
+MOTTAGARE:
+TKLSI, TKLTLI, TKLY , DTKLSI, Tidtabell TLC Malmö, Swedtrac, TGSÖDRA, Sperry
+TLSYD
+
+TÅG 33597 Ska Gå
+Ystad - Simrishamn                                       130812-130818: F
+
+TÅGSLAG TJT
+
+ 
+Körplan
+------------------------------------------------------------------------------------------
+TPL
+ANK
+AVG
+ÖVRIGT
+------------------------------------------------------------------------------------------
+Ystad
+
+0032
+K-Möter 1686
+Köpingebro
+
+0038
+Obevakad
+Tomelilla
+0048
+0113
+Traf.utb 
+K-Möter 1590
+Gärsnäs
+
+0123
+Obevakad
+Simrishamn
+0133
+
+Obevakad (se linjeboken) 
+Ankomstanmälan till tkl TLI
+
+
+------------------------------------------------------------------------------
+------------
+ANM: TÅG 1590   K-Möter 33597 i Tomelilla          130812-130818: F
+
+     Swedtrac 130426
+     sth 25
+     
+     system m kontroll:HS
+
+
+
+1 aug 2013 Trafikverket
+
+ 
+BESTYRKES - DP: ...                     TKL: ....................
+ 
+
+ 
+KOPIA MOTTAGEN: ...............................................
+ 
+                                FÖRARE
+ 
+
+ 
+UTFÖRD ÅTGÄRD           SIGN
+ 
+------------------------------------------------------------------------------
+--
+ 
+INF I TKL-BOKEN         ....
+ 
+
+ 
+KVITTO LÄMNAT           ....
+ 
+
+ 
+Blankett för ordergivningsdriftplats vid inställelse av ordinarie tåg i system 
+M/F
+ 
+ 
+ 
+Upplagd                 ....
+ 
+ 
+ 
+Kontroll                .... 

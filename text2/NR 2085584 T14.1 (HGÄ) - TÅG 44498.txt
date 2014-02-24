@@ -1,0 +1,152 @@
+Från:	trainplan@trafikverket.se
+Skickat:	den 5 februari 2014 12:55
+Till:	Tidtabeller Dlc Hallsberg
+Ämne:	[NR 2085584] T14.1 (H,GÄ) - TÅG 44498
+
+
+TL -- T14.1 -- Trafikverket - NR 2085584 -- 5 feb 2014 12:55:14  -- BLANKETT 
+22
+
+MOTTAGARE:
+TKLBLG, TKLDGÖ, TKLHLF, TKLKIL, TLOSLO, FJTKLH, Tidtabell TLC Hallsberg, TXLOG
+TGVÄSTRA,  TLNORD
+
+TÅG 44498 Ska Gå
+Charlottenberg - Borlänge c                              140303-140309: S
+                                                Går Även 140427, 140511
+
+TÅGSLAG GT
+
+ 
+Körplan
+------------------------------------------------------------------------------------------
+TPL
+ANK
+AVG
+ÖVRIGT
+------------------------------------------------------------------------------------------
+Charlottenberg
+
+0239
+Går från Charlottenberg Gräns
+Åmotfors
+0252
+0313
+
+Arvika
+
+0330
+
+Edane
+
+0342
+
+Högboda
+
+0355
+
+Kil
+0409
+0440
+Traf.utb
+Molkom
+
+0510
+Obevakad
+Daglösen
+
+0533
+Tkl ger körtillstånd
+Nykroppa
+
+0539
+
+Hällefors
+
+0606
+Tkl ger körtillstånd 
+K-Möter 69335
+Ställdalen
+
+0637
+
+Grängesberg
+
+0656
+
+Klenshyttan
+
+0702
+
+Ludvika
+
+0708
+
+Gräsberg
+
+0717
+
+Rämshyttan
+
+0726
+
+Ulvshyttan
+
+0734
+
+Sellnäs
+
+0742
+
+Borlänge c
+0750
+
+
+
+
+------------------------------------------------------------------------------
+------------
+ANM: TÅG 69219  K-Möter 44498 i Hällefors          140303-140309: S
+                K-Möter Även 44498 i Hällefors     140427, 140511
+
+     Txlog 140122 proj 112 v1406-1422
+     fvb tsä 42443
+
+
+
+5 feb 2014 Trafikverket
+
+ 
+BESTYRKES - DP: ...                     TKL: ....................
+ 
+
+ 
+KOPIA MOTTAGEN: ...............................................
+ 
+                                FÖRARE
+ 
+
+ 
+UTFÖRD ÅTGÄRD           SIGN
+ 
+------------------------------------------------------------------------------
+--
+ 
+INF I TKL-BOKEN         ....
+ 
+
+ 
+KVITTO LÄMNAT           ....
+ 
+
+ 
+Blankett för ordergivningsdriftplats vid inställelse av ordinarie tåg i system 
+M/F
+ 
+ 
+ 
+Upplagd                 ....
+ 
+ 
+ 
+Kontroll                .... 

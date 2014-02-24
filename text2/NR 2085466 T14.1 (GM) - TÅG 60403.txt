@@ -1,0 +1,141 @@
+Från:	trainplan@trafikverket.se
+Skickat:	den 5 februari 2014 11:09
+Till:	Tidtabeller Dlc Malmö
+Ämne:	[NR 2085466] T14.1 (G,M) - TÅG 60403
+
+
+TL -- T14.1 -- Trafikverket - NR 2085466 -- 5 feb 2014 11:09:12  -- BLANKETT 
+22
+
+MOTTAGARE:
+TKLÅP, TKLTP, Tidtabell TLC Malmö, TLSYD
+
+TÅG 60403 Ska Gå
+Halmstads c - Grevie                                     140203-140209: F
+Grevie - Malmö Godsbangård                               140203-140209: L
+
+TÅGSLAG TJT
+
+ 
+Körplan
+------------------------------------------------------------------------------------------
+TPL
+ANK
+AVG
+ÖVRIGT
+------------------------------------------------------------------------------------------
+Halmstads c
+
+2135
+
+Halmstad Rangerbangård
+
+2141
+
+Kistinge
+
+2153
+
+Eldsberga
+
+2219
+
+Laholm Västra
+
+2253
+
+Båstad Norra
+
+2327
+
+Grevie
+2400
+0057
+
+Vejbyslätt
+
+0124
+
+Ängelholm
+
+0157
+
+Åstorp
+
+0244
+
+Billesholm
+
+0314
+Obevakad
+Teckomatorp
+
+0438
+
+Kävlinge
+
+0512
+
+Flädie
+
+0540
+
+Arlöv
+
+0615
+
+Malmö Godsbangård
+0625
+
+
+
+
+------------------------------------------------------------------------------
+------------
+ANM: System M-kontroll: ChF
+     TX-L 140205/Mattias Andersson
+     
+     Sms: TMX+lok i trp
+     
+     Trp av lok m hjulplatta. Sth 20, 10 km/h vid gång gm vxl
+     
+     
+
+
+
+5 feb 2014 Trafikverket
+
+ 
+BESTYRKES - DP: ...                     TKL: ....................
+ 
+
+ 
+KOPIA MOTTAGEN: ...............................................
+ 
+                                FÖRARE
+ 
+
+ 
+UTFÖRD ÅTGÄRD           SIGN
+ 
+------------------------------------------------------------------------------
+--
+ 
+INF I TKL-BOKEN         ....
+ 
+
+ 
+KVITTO LÄMNAT           ....
+ 
+
+ 
+Blankett för ordergivningsdriftplats vid inställelse av ordinarie tåg i system 
+M/F
+ 
+ 
+ 
+Upplagd                 ....
+ 
+ 
+ 
+Kontroll                .... 

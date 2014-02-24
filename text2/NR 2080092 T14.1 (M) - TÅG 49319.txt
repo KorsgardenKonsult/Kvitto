@@ -1,0 +1,101 @@
+Från:	trainplan@trafikverket.se
+Skickat:	den 28 januari 2014 10:30
+Till:	Tidtabeller Dlc Malmö
+Ämne:	[NR 2080092] T14.1 (M) - TÅG 49319
+
+
+TL -- T14.1 -- Trafikverket - NR 2080092 -- 28 jan 2014 10:30:02 -- BLANKETT 
+22
+
+MOTTAGARE:
+TKLBFO, TKLKVH, TKLMBÄ, TKLN, TKLSYD, TKLV , TKLVGD, Tidtabell TLC Malmö
+CFL cargo,  TLSYD
+
+TÅG 49319 Ska Gå
+Nässjö c - Skillingaryd                                  140127-140202: O
+Skillingaryd - Värnamo                                   140127-140202: TO
+
+TÅGSLAG TJT
+
+ 
+Körplan
+------------------------------------------------------------------------------------------
+TPL
+ANK
+AVG
+ÖVRIGT
+------------------------------------------------------------------------------------------
+Nässjö c
+
+2310
+
+Malmbäck
+
+2331
+Obevakad
+Vaggeryd
+
+2353
+
+Skillingaryd
+
+0001
+Obevakad
+Klevshult
+
+0007
+Obevakad
+Värnamo
+0023
+
+
+
+
+------------------------------------------------------------------------------
+------------
+ANM: System M kontroll gjord/LS
+     
+     CFL Cargo 140127/ Peter Heller
+     
+     Sms: 20m, sth 80
+     
+     Ens lok
+
+
+
+28 jan 2014 Trafikverket
+
+ 
+BESTYRKES - DP: ...                     TKL: ....................
+ 
+
+ 
+KOPIA MOTTAGEN: ...............................................
+ 
+                                FÖRARE
+ 
+
+ 
+UTFÖRD ÅTGÄRD           SIGN
+ 
+------------------------------------------------------------------------------
+--
+ 
+INF I TKL-BOKEN         ....
+ 
+
+ 
+KVITTO LÄMNAT           ....
+ 
+
+ 
+Blankett för ordergivningsdriftplats vid inställelse av ordinarie tåg i system 
+M/F
+ 
+ 
+ 
+Upplagd                 ....
+ 
+ 
+ 
+Kontroll                .... 

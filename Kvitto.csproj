@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{628B0A5A-B378-4E98-80C6-2F99FE2F4A84}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Kvitto</RootNamespace>
+    <AssemblyName>Kvitto</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="KvittoObj.cs" />
+    <Compile Include="Kvitto.cs" />
+    <Compile Include="ParsedPlan.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RunPlan.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="text2\NR 1690246 T13.1 %28M%29 - TÅG 76757.txt" />
+    <Content Include="text2\NR 1719355 T13.1 %28M%29 - TÅG 33787.txt" />
+    <Content Include="text2\NR 1748261 T13.1 %28M%29 - TÅG 33597.txt" />
+    <Content Include="text2\NR 1761654 T13.1 %28M%29 - TÅG 63153.txt" />
+    <Content Include="text2\NR 1761659 T13.1 %28M%29 - TÅG 54902.txt" />
+    <Content Include="text2\NR 1766796 T13.1 %28MG%29 - TÅG 98488.txt" />
+    <Content Include="text2\NR 1768581 T13.1 %28MG%29 - TÅG 55623.txt" />
+    <Content Include="text2\NR 2000127 T13.1 %28M%29 - TÅG 55284.txt" />
+    <Content Include="text2\NR 2000835 T13.1 %28M%29 - TÅG 23067.txt" />
+    <Content Include="text2\NR 2005529 T13.1 %28M%29 - TÅG 23290.txt" />
+    <Content Include="text2\NR 2011372 T13.1 %28M%29 - TÅG 23899.txt" />
+    <Content Include="text2\NR 2013968 T13.1 %28M%29 - TÅG 23216.txt" />
+    <Content Include="text2\NR 2016369 T13.1 %28MG%29 - TÅG 24364.txt" />
+    <Content Include="text2\NR 2019941 T13.1 %28M%29 - TÅG 24838.txt" />
+    <Content Include="text2\NR 2042755 T13.1 %28MG%29 - TÅG 25618.txt" />
+    <Content Include="text2\NR 2042764 T13.1 %28M%29 - TÅG 25642.txt" />
+    <Content Include="text2\NR 2043171 T13.1 %28M%29 - TÅG 25767.txt" />
+    <Content Include="text2\NR 2044066 T14.1 %28M%29 - TÅG 17675.txt" />
+    <Content Include="text2\NR 2046647 T14.1 %28M%29 - TÅG 6363.txt" />
+    <Content Include="text2\NR 2066174 T14.1 %28M%29 - TÅG 11997.txt" />
+    <Content Include="text2\NR 2066204 T14.1 %28M%29 - TÅG 30309.txt" />
+    <Content Include="text2\NR 2069714 T14.1 %28GM%29 - TÅG 95201.txt" />
+    <Content Include="text2\NR 2076260 T14.1 %28M%29 - TÅG 89003.txt" />
+    <Content Include="text2\NR 2078296 T14.1 %28HGÄST%29 - TÅG 18181.txt" />
+    <Content Include="text2\NR 2080092 T14.1 %28M%29 - TÅG 49319.txt" />
+    <Content Include="text2\NR 2081388 T14.1 %28STGÄH%29 - TÅG 16620.txt" />
+    <Content Include="text2\NR 2084564 T14.1 %28M%29 - TÅG 49350.txt" />
+    <Content Include="text2\NR 2084724 T14.1 %28H%29 - TÅG 48348.txt" />
+    <Content Include="text2\NR 2085319 T14.1 %28GÄH%29 - TÅG 44671.txt" />
+    <Content Include="text2\NR 2085466 T14.1 %28GM%29 - TÅG 60403.txt" />
+    <Content Include="text2\NR 2085584 T14.1 %28HGÄ%29 - TÅG 44498.txt" />
+    <Content Include="text2\NR 2086279 T14.1 %28GÄHG%29 - TÅG 16203.txt" />
+    <Content Include="text2\NR 2086625 T14.1 %28HGÄÅG%29 - TÅG 44538.txt" />
+    <Content Include="text2\NR 2086791 T14.1 %28HGM%29 - TÅG 41071.txt" />
+    <Content Include="text2\NR 2086946 T14.1 %28ST%29 - TÅG 9149.txt" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

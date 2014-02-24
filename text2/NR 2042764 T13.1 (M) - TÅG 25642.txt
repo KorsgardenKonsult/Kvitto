@@ -1,0 +1,81 @@
+Från:	trainplan@trafikverket.se
+Skickat:	den 21 november 2013 15:28
+Till:	Tidtabeller Dlc Malmö
+Ämne:	[NR 2042764] T13.1 (M) - TÅG 25642
+
+
+TL -- T13.1 -- Trafikverket - NR 2042764 -- 21 nov 2013 15:27:41 -- BLANKETT 
+22
+
+MOTTAGARE:
+TKLMBÄ, TKLN, TKLVGD, Tidtabell TLC Malmö, InfraNord, TLSYD
+
+TÅG 25642 Ska Gå
+Vaggeryd - Nässjö c                                      131202-131208: O
+
+TÅGSLAG TJT
+
+ 
+Körplan
+------------------------------------------------------------------------------------------
+TPL
+ANK
+AVG
+ÖVRIGT
+------------------------------------------------------------------------------------------
+Vaggeryd
+
+1234
+
+Malmbäck
+
+1256
+Obevakad
+Nässjö c
+1315
+
+
+
+
+------------------------------------------------------------------------------
+------------
+ANM: Infranord IMV100
+
+
+
+21 nov 2013 Trafikverket
+
+ 
+BESTYRKES - DP: ...                     TKL: ....................
+ 
+
+ 
+KOPIA MOTTAGEN: ...............................................
+ 
+                                FÖRARE
+ 
+
+ 
+UTFÖRD ÅTGÄRD           SIGN
+ 
+------------------------------------------------------------------------------
+--
+ 
+INF I TKL-BOKEN         ....
+ 
+
+ 
+KVITTO LÄMNAT           ....
+ 
+
+ 
+Blankett för ordergivningsdriftplats vid inställelse av ordinarie tåg i system 
+M/F
+ 
+ 
+ 
+Upplagd                 ....
+ 
+ 
+ 
+Kontroll                .... 

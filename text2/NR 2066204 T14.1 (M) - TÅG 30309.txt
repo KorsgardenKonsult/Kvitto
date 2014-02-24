@@ -1,0 +1,218 @@
+Från:	trainplan@trafikverket.se
+Skickat:	den 3 januari 2014 13:53
+Till:	Tidtabeller Dlc Malmö
+Ämne:	[NR 2066204] T14.1 (M) - TÅG 30309
+
+
+TL -- T14.1 -- Trafikverket - NR 2066204 -- 3 jan 2014 13:52:34  -- BLANKETT 
+22
+
+MOTTAGARE:
+TKLSI, TKLTLI, TKLY , DTKLSI, Tidtabell TLC Malmö, TGSÖDRA, InfraNord
+SPÅRPLAN M,  TLSYD
+
+TÅG 30309 Ska Gå
+Kristianstads c - Svågertorp                             140106-140112: M
+Svågertorp - Simrishamn                                  140106-140112: O
+
+TÅGSLAG TJT
+
+ 
+Körplan
+------------------------------------------------------------------------------------------
+TPL
+ANK
+AVG
+ÖVRIGT
+------------------------------------------------------------------------------------------
+Kristianstads c
+
+2037
+
+Karpalund
+
+2041
+
+Önnestad
+
+2045
+
+Vinslöv
+
+2052
+
+Attarp
+
+2056
+
+Hässleholm
+
+2102
+
+Mellby
+
+2109
+
+Tjörnarp
+
+2117
+
+Höör
+
+2125
+
+Stehag
+
+2133
+
+Eslöv
+
+2140
+
+Dammstorp
+
+2143
+
+Örtofta
+
+2146
+
+Tornhill
+
+2150
+
+Lund c
+
+2154
+
+Flackarp
+
+2157
+
+Åkarps norra
+
+2200
+
+Arlöv
+
+2203
+
+Malmö Godsbangård
+
+2205
+
+Malmö c
+2209
+2225
+
+Östervärn
+
+2229
+
+Fosieby
+
+2235
+
+Svågertorp
+2238
+0053
+
+Lockarp
+
+0056
+
+Svedala
+
+0108
+
+Lemmeströ
+
+0114
+
+Skurup
+
+0121
+
+Rydsgård
+
+0126
+
+Rynge
+
+0130
+
+Ystad
+
+0140
+K-Möter 1590
+Köpingebro
+
+0147
+Obevakad
+Tomelilla
+0157
+0202
+Obevakad
+Gärsnäs
+
+0215
+Obevakad
+Simrishamn
+0225
+
+Obevakad 
+Till 30310
+
+
+------------------------------------------------------------------------------
+------------
+ANM: 131218 Infranord
+     IMV100S
+     
+     MÄTNING Cr-M-Övn / Stp-Y-Si
+     
+     Tsä till 30310
+     System M-kontroll: EG
+     
+     
+     
+     
+
+
+
+3 jan 2014 Trafikverket
+
+ 
+BESTYRKES - DP: ...                     TKL: ....................
+ 
+
+ 
+KOPIA MOTTAGEN: ...............................................
+ 
+                                FÖRARE
+ 
+
+ 
+UTFÖRD ÅTGÄRD           SIGN
+ 
+------------------------------------------------------------------------------
+--
+ 
+INF I TKL-BOKEN         ....
+ 
+
+ 
+KVITTO LÄMNAT           ....
+ 
+
+ 
+Blankett för ordergivningsdriftplats vid inställelse av ordinarie tåg i system 
+M/F
+ 
+ 
+ 
+Upplagd                 ....
+ 
+ 
+ 
+Kontroll                .... 

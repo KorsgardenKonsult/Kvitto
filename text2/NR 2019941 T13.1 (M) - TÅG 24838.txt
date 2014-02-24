@@ -1,0 +1,95 @@
+Från:	trainplan@trafikverket.se
+Skickat:	den 21 oktober 2013 09:01
+Till:	Tidtabeller Dlc Malmö
+Ämne:	[NR 2019941] T13.1 (M) - TÅG 24838
+
+
+TL -- T13.1 -- Trafikverket - NR 2019941 -- 21 okt 2013 09:01:05 -- BLANKETT 
+22
+
+MOTTAGARE:
+TKLEK, TKLHF, TKLHVD, TKLN, Tidtabell TLC Malmö, TGSÖDRA, Balfour Beatty Rail
+TLSYD
+
+TÅG 24838 Ska Gå
+Nässjö c - Hultsfred                                     131021-131027: TI
+
+TÅGSLAG TJT
+
+ 
+Körplan
+------------------------------------------------------------------------------------------
+TPL
+ANK
+AVG
+ÖVRIGT
+------------------------------------------------------------------------------------------
+Nässjö c
+
+1100
+K-Möter 8564
+Eksjö
+
+1121
+Obevakad
+Hjältevad
+
+1144
+Tkl ger körtillstånd
+Mariannelund
+
+1158
+Obevakad
+Hultsfred
+1219
+
+
+
+
+------------------------------------------------------------------------------
+------------
+ANM: 131021 Balfour Beatty /Rasmusson
+     Ballastplog
+     
+     System M-kontroll: EG
+     
+     
+
+
+
+21 okt 2013 Trafikverket
+
+ 
+BESTYRKES - DP: ...                     TKL: ....................
+ 
+
+ 
+KOPIA MOTTAGEN: ...............................................
+ 
+                                FÖRARE
+ 
+
+ 
+UTFÖRD ÅTGÄRD           SIGN
+ 
+------------------------------------------------------------------------------
+--
+ 
+INF I TKL-BOKEN         ....
+ 
+
+ 
+KVITTO LÄMNAT           ....
+ 
+
+ 
+Blankett för ordergivningsdriftplats vid inställelse av ordinarie tåg i system 
+M/F
+ 
+ 
+ 
+Upplagd                 ....
+ 
+ 
+ 
+Kontroll                .... 

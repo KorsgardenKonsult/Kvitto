@@ -1,0 +1,132 @@
+Från:	trainplan@trafikverket.se
+Skickat:	den 25 september 2013 12:51
+Till:	Tidtabeller Dlc Malmö
+Ämne:	[NR 2005529] T13.1 (M) - TÅG 23290
+
+
+TL -- T13.1 -- Trafikverket - NR 2005529 -- 25 sep 2013 12:51:01 -- BLANKETT 
+22
+
+MOTTAGARE:
+TKLSI, TKLTLI, TKLY , DTKLSI, Tidtabell TLC Malmö, TGSÖDRA, InfraNord
+SPÅRPLAN M,  TLSYD
+
+TÅG 23290 Ska Gå
+Simrishamn - Malmö Godsbangård                           131104-131110: O
+
+TÅGSLAG TJT
+
+ 
+Körplan
+------------------------------------------------------------------------------------------
+TPL
+ANK
+AVG
+ÖVRIGT
+------------------------------------------------------------------------------------------
+Simrishamn
+
+0137
+Obevakad 
+K-Möter 1277 
+K-Möter 23289
+Gärsnäs
+
+0144
+Obevakad
+Tomelilla
+0154
+0201
+Obevakad
+Köpingebro
+
+0207
+Obevakad
+Ystad
+
+0212
+Fjärrbevakad
+Rynge
+
+0219
+
+Rydsgård
+
+0221
+
+Skurup
+
+0224
+
+Lemmeströ
+0229
+0238
+
+Svedala
+
+0243
+
+Lockarp
+
+0248
+
+Fosieby
+
+0249
+
+Östervärn
+
+0252
+
+Malmö Godsbangård
+0253
+
+
+
+
+------------------------------------------------------------------------------
+------------
+ANM: 130920 IMV200 mätvagn November
+     RC6, 65m, sth 160
+     upst kanalspåret
+     
+     system m-kontroll /TD
+
+
+
+25 sep 2013 Trafikverket
+
+ 
+BESTYRKES - DP: ...                     TKL: ....................
+ 
+
+ 
+KOPIA MOTTAGEN: ...............................................
+ 
+                                FÖRARE
+ 
+
+ 
+UTFÖRD ÅTGÄRD           SIGN
+ 
+------------------------------------------------------------------------------
+--
+ 
+INF I TKL-BOKEN         ....
+ 
+
+ 
+KVITTO LÄMNAT           ....
+ 
+
+ 
+Blankett för ordergivningsdriftplats vid inställelse av ordinarie tåg i system 
+M/F
+ 
+ 
+ 
+Upplagd                 ....
+ 
+ 
+ 
+Kontroll                .... 

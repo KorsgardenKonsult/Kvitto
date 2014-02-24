@@ -1,0 +1,99 @@
+Från:	trainplan@trafikverket.se
+Skickat:	den 5 oktober 2013 11:45
+Till:	Tidtabeller Dlc Malmö
+Ämne:	[NR 2011372] T13.1 (M) - TÅG 23899
+
+
+TL -- T13.1 -- Trafikverket - NR 2011372 -- 5 okt 2013 11:44:19  -- BLANKETT 
+22
+
+MOTTAGARE:
+TKLKVH, TKLMBÄ, TKLN, TKLSYD, TKLV , TKLVGD, Tidtabell TLC Malmö, TGSÖDRA
+CFL cargo,  TLSYD
+
+TÅG 23899 Ska Gå
+Nässjö c - Värnamo                                       131007-131013: F
+
+TÅGSLAG TJT
+
+ 
+Körplan
+------------------------------------------------------------------------------------------
+TPL
+ANK
+AVG
+ÖVRIGT
+------------------------------------------------------------------------------------------
+Nässjö c
+
+0511
+
+Malmbäck
+
+0526
+Obevakad
+Vaggeryd
+
+0545
+
+Skillingaryd
+
+0551
+Obevakad
+Klevshult
+
+0556
+Obevakad
+Värnamo
+0610
+
+
+
+
+------------------------------------------------------------------------------
+------------
+ANM: TÅG 8500   K-Möter 23899 i Värnamo            131007-131013: F
+
+     131003 CFLCargo /Heller
+     Ensamt lok, sth 120
+     
+     System M-kontroll: EG
+
+
+
+5 okt 2013 Trafikverket
+
+ 
+BESTYRKES - DP: ...                     TKL: ....................
+ 
+
+ 
+KOPIA MOTTAGEN: ...............................................
+ 
+                                FÖRARE
+ 
+
+ 
+UTFÖRD ÅTGÄRD           SIGN
+ 
+------------------------------------------------------------------------------
+--
+ 
+INF I TKL-BOKEN         ....
+ 
+
+ 
+KVITTO LÄMNAT           ....
+ 
+
+ 
+Blankett för ordergivningsdriftplats vid inställelse av ordinarie tåg i system 
+M/F
+ 
+ 
+ 
+Upplagd                 ....
+ 
+ 
+ 
+Kontroll                .... 

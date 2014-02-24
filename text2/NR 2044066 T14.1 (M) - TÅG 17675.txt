@@ -1,0 +1,93 @@
+Från:	trainplan@trafikverket.se
+Skickat:	den 24 november 2013 10:26
+Till:	Tidtabeller Dlc Malmö
+Ämne:	[NR 2044066] T14.1 (M) - TÅG 17675
+
+
+TL -- T14.1 -- Trafikverket - NR 2044066 -- 24 nov 2013 10:25:58 -- BLANKETT 
+22
+
+MOTTAGARE:
+TKLBG, TKLHF, TKLKAC, TKLN, TKLOH, DTKLOH, Tidtabell TLC Malmö, DSB Småland
+TKLMÖA,  TLSYD
+
+TÅG 17675 Ska Gå
+Hultsfred - Oskarshamn                                   131216-140817: L
+
+TÅGSLAG RST
+
+ 
+Körplan
+------------------------------------------------------------------------------------------
+TPL
+ANK
+AVG
+ÖVRIGT
+------------------------------------------------------------------------------------------
+Hultsfred
+
+1845
+K-Möter 8562        (131216-140817: L) 
+K-Möter Ej 8562:     131224
+Mörlunda
+1858
+1858
+Obevakad 
+På/Av
+Berga
+1909
+1912
+På/Av
+Oskarshamn
+1932
+
+Obevakad (se linjeboken) 
+Ankomstanmälan till tkl
+
+
+------------------------------------------------------------------------------
+------------
+ANM: TÅG 98304  K-Möter Även 17675 i Berga         140418
+
+     Vänder till 7666 d.e
+     Tamkontroll/PS
+     Best DSB Småland 2013-11-14
+
+
+
+24 nov 2013 Trafikverket
+
+ 
+BESTYRKES - DP: ...                     TKL: ....................
+ 
+
+ 
+KOPIA MOTTAGEN: ...............................................
+ 
+                                FÖRARE
+ 
+
+ 
+UTFÖRD ÅTGÄRD           SIGN
+ 
+------------------------------------------------------------------------------
+--
+ 
+INF I TKL-BOKEN         ....
+ 
+
+ 
+KVITTO LÄMNAT           ....
+ 
+
+ 
+Blankett för ordergivningsdriftplats vid inställelse av ordinarie tåg i system 
+M/F
+ 
+ 
+ 
+Upplagd                 ....
+ 
+ 
+ 
+Kontroll                .... 

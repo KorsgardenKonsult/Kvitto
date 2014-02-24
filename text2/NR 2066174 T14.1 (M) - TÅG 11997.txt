@@ -1,0 +1,98 @@
+Från:	trainplan@trafikverket.se
+Skickat:	den 3 januari 2014 13:24
+Till:	Tidtabeller Dlc Malmö
+Ämne:	[NR 2066174] T14.1 (M) - TÅG 11997
+
+
+TL -- T14.1 -- Trafikverket - NR 2066174 -- 3 jan 2014 13:24:07  -- BLANKETT 
+22
+
+MOTTAGARE:
+TKLBG, TKLBMA, TKLHF, TKLKAC, TKLMSS, Tidtabell TLC Malmö, VEOLIA, TGSÖDRA
+TKLMÖA,  TLSYD
+
+TÅG 11997 Ska Gå
+Hultsfred - Kalmar c                                     140105
+
+TÅGSLAG TJT
+
+ 
+Körplan
+------------------------------------------------------------------------------------------
+TPL
+ANK
+AVG
+ÖVRIGT
+------------------------------------------------------------------------------------------
+Hultsfred
+
+2200
+
+Mörlunda
+
+2213
+Obevakad
+Berga
+
+2224
+K-Möter 8566
+Blomstermåla
+
+2249
+Obevakad
+Kalmar södra
+
+2315
+
+Kalmar c
+2317
+
+
+
+
+------------------------------------------------------------------------------
+------------
+ANM: TÅG 8566   K-Möter Även 11997 i Berga         140105
+
+     Veolia Transport 131230
+     
+     Kontroll system M /JK
+
+
+
+3 jan 2014 Trafikverket
+
+ 
+BESTYRKES - DP: ...                     TKL: ....................
+ 
+
+ 
+KOPIA MOTTAGEN: ...............................................
+ 
+                                FÖRARE
+ 
+
+ 
+UTFÖRD ÅTGÄRD           SIGN
+ 
+------------------------------------------------------------------------------
+--
+ 
+INF I TKL-BOKEN         ....
+ 
+
+ 
+KVITTO LÄMNAT           ....
+ 
+
+ 
+Blankett för ordergivningsdriftplats vid inställelse av ordinarie tåg i system 
+M/F
+ 
+ 
+ 
+Upplagd                 ....
+ 
+ 
+ 
+Kontroll                .... 

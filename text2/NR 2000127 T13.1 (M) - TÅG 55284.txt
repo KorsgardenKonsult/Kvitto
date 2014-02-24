@@ -1,0 +1,104 @@
+Från:	trainplan@trafikverket.se
+Skickat:	den 16 september 2013 09:36
+Till:	Tidtabeller Dlc Malmö
+Ämne:	[NR 2000127] T13.1 (M) - TÅG 55284
+
+
+TL -- T13.1 -- Trafikverket - NR 2000127 -- 16 sep 2013 09:35:15 -- BLANKETT 
+22
+
+MOTTAGARE:
+TKLBG, TKLBMA, TKLHF, TKLKAC, TKLMSS, Tidtabell TLC Malmö, TGSÖDRA, InfraNord
+TKLMÖA,  TLSYD
+
+TÅG 55284 Ska Gå
+Kalmar c - Mörlunda                                      131007-131013: TO
+                                                         131104-131110: TO
+Mörlunda - Hultsfred                                     131007-131013: F
+                                                         131104-131110: F
+
+TÅGSLAG TJT
+
+ 
+Körplan
+------------------------------------------------------------------------------------------
+TPL
+ANK
+AVG
+ÖVRIGT
+------------------------------------------------------------------------------------------
+Kalmar c
+
+2235
+
+Kalmar södra
+
+2237
+
+Blomstermåla
+
+2308
+Obevakad
+Berga
+2341
+2346
+
+Mörlunda
+
+0012
+Obevakad
+Hultsfred
+0045
+
+
+
+
+------------------------------------------------------------------------------
+------------
+ANM: Infranord Spårhalkan 130822
+     bekämpning, Kac-Hf, (spärrfärd Hf-Vib-Hf-N)
+     Y1
+     sth 120,sth 40 vid bekämpning,35m
+     
+     fr 55021
+     
+     system m kontroll:HS
+
+
+
+16 sep 2013 Trafikverket
+
+ 
+BESTYRKES - DP: ...                     TKL: ....................
+ 
+
+ 
+KOPIA MOTTAGEN: ...............................................
+ 
+                                FÖRARE
+ 
+
+ 
+UTFÖRD ÅTGÄRD           SIGN
+ 
+------------------------------------------------------------------------------
+--
+ 
+INF I TKL-BOKEN         ....
+ 
+
+ 
+KVITTO LÄMNAT           ....
+ 
+
+ 
+Blankett för ordergivningsdriftplats vid inställelse av ordinarie tåg i system 
+M/F
+ 
+ 
+ 
+Upplagd                 ....
+ 
+ 
+ 
+Kontroll                .... 

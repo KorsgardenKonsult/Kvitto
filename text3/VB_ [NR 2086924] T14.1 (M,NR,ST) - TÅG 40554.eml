@@ -1,0 +1,1374 @@
+Delivered-To: jerk.brorsson@ddp.se
+Received: by 10.112.44.68 with SMTP id c4csp100688lbm;
+        Fri, 14 Feb 2014 06:47:01 -0800 (PST)
+X-Received: by 10.112.97.173 with SMTP id eb13mr1521855lbb.65.1392389220954;
+        Fri, 14 Feb 2014 06:47:00 -0800 (PST)
+Return-Path: <prvs=0122dfcfc0=jerk.brorsson@trafikverket.se>
+Received: from trafikverket.se (mail4.trafikverket.se. [188.121.65.205])
+        by mx.google.com with ESMTPS id q5si8700419lbr.86.2014.02.14.06.47.00
+        for <jerk.brorsson@ddp.se>
+        (version=TLSv1 cipher=RC4-SHA bits=128/128);
+        Fri, 14 Feb 2014 06:47:00 -0800 (PST)
+Received-SPF: pass (google.com: domain of prvs=0122dfcfc0=jerk.brorsson@trafikverket.se designates 188.121.65.205 as permitted sender) client-ip=188.121.65.205;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of prvs=0122dfcfc0=jerk.brorsson@trafikverket.se designates 188.121.65.205 as permitted sender) smtp.mail=prvs=0122dfcfc0=jerk.brorsson@trafikverket.se
+From: <jerk.brorsson@trafikverket.se>
+To: <jerk.brorsson@ddp.se>
+Subject: =?iso-8859-1?Q?VB:_[NR_2086924]_T14.1_(M,NR,ST)_-_T=C5G_40554?=
+Thread-Topic: =?iso-8859-1?Q?[NR_2086924]_T14.1_(M,NR,ST)_-_T=C5G_40554?=
+Thread-Index: AQHPI+zlTKj5iJds3UOiwxKm+E8rXpq030vQ
+Date: Fri, 14 Feb 2014 14:46:57 +0000
+Message-ID: <F130D800C07D9B43A30730E8602FF8F7A8BB91E8@TRV0176.trafikverket.local>
+References: <19740414231240.31E00F22591F9F3D@smtp2.ictservices.se>
+In-Reply-To: <19740414231240.31E00F22591F9F3D@smtp2.ictservices.se>
+Accept-Language: sv-SE, en-US
+Content-Language: sv-SE
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+Content-Type: multipart/alternative;
+	boundary="_000_F130D800C07D9B43A30730E8602FF8F7A8BB91E8TRV0176trafikve_"
+MIME-Version: 1.0
+
+--_000_F130D800C07D9B43A30730E8602FF8F7A8BB91E8TRV0176trafikve_
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+
+
+Fr=E5n: trainplan@trafikverket.se [mailto:trainplan@trafikverket.se]
+Skickat: den 7 februari 2014 11:11
+Till: Tidtabeller Dlc Malm=F6
+=C4mne: [NR 2086924] T14.1 (M,NR,ST) - T=C5G 40554
+
+
+
+
+TL -- T14.1 -- Trafikverket - NR 2086924 -- 7 feb 2014 11:10:46  -- BLANKET=
+T 22
+
+
+
+MOTTAGARE:
+
+TKL=C5P, TKLTP, Tidtabell TLC Malm=F6, HECTOR, TLSYD
+
+
+
+T=C5G 40554 Ska G=E5
+
+Malm=F6 Godsbang=E5rd - Katrineholms c                       140421-140511:=
+ L
+
+                                                         140602-140608: L
+
+
+
+T=C5GSLAG GT
+
+
+K=F6rplan
+
+---------------------------------------------------------------------------=
+---------------
+
+TPL
+
+ANK
+
+AVG
+
+=D6VRIGT
+
+---------------------------------------------------------------------------=
+---------------
+
+Malm=F6 Godsbang=E5rd
+
+0358
+
+Arl=F6v
+
+0402
+
+Fl=E4die
+
+0411
+
+K=E4vlinge
+
+0417
+
+Teckomatorp
+
+0423
+
+K-M=F6ter 41071       (140428-140504: L,
+                     140602-140608: L)
+
+Billesholm
+
+0446
+
+Obevakad
+
+=C5storp
+
+0455
+
+K=E4rreberga
+
+0500
+
+Kvidinge
+
+0504
+
+Klippan
+
+0508
+
+0513
+
+Hyllstofta
+
+0523
+
+Perstorp
+
+0527
+
+V=E4stra Torup
+
+0532
+
+Tyringe
+
+0536
+
+Finja
+
+0540
+
+H=E4ssleholm
+
+0544
+
+Mosselund
+
+0550
+
+H=E4stveda
+
+0556
+
+Osby
+
+0604
+
+Tunneby
+
+0610
+
+=C4lmhult
+
+0617
+
+Di=F6 Norra
+
+0624
+
+Eneryda
+
+0631
+
+Vislanda
+
+0638
+
+Bl=E4dinge
+
+0642
+
+Alvesta
+
+0647
+
+G=E5vetorp
+
+0651
+
+Moheda
+
+0655
+
+Lidn=E4s
+
+0700
+
+Grevaryd
+
+0706
+
+R=F6rvik
+
+0712
+
+Stockaryd
+
+0718
+
+Aleholm
+
+0725
+
+Ulvstorp
+
+0731
+
+Grimstorp
+
+0737
+
+N=E4ssj=F6 c
+
+0746
+
+0816
+
+F=F6rarbyte
+
+Gamlarp
+
+0821
+
+Vimnarp
+
+0824
+
+Flisby
+
+0831
+
+Ralings=E5s
+
+0837
+
+Frinnaryd
+
+0842
+
+Gripenberg
+
+0846
+
+Tran=E5s
+
+0852
+
+Sommen
+
+0900
+
+Boxholm
+
+0905
+
+Lindekullen
+
+0910
+
+Mj=F6lby
+
+0915
+
+Mantorp
+
+0921
+
+Vikingstad
+
+0928
+
+Link=F6pings c
+
+0935
+
+Linghem
+
+0942
+
+Gistad
+
+0948
+
+Kimstad
+
+0953
+
+Fiskeby
+
+1002
+
+Norrk=F6pings c
+
+1006
+
+=C5by
+
+1014
+
+Simonstorp
+
+1025
+
+Str=E5ngsj=F6
+
+1034
+
+Katrineholms c
+
+1042
+
+Genomfartst=E5g till 41055
+
+
+
+
+
+
+---------------------------------------------------------------------------=
+---------------
+
+ANM: 140115 HECTOR RAIL AB
+
+
+
+
+
+
+
+7 feb 2014 Trafikverket
+
+
+
+BESTYRKES - DP: ...                     TKL: ....................
+
+
+
+KOPIA MOTTAGEN: ...............................................
+
+                                F=D6RARE
+
+
+
+UTF=D6RD =C5TG=C4RD           SIGN
+
+---------------------------------------------------------------------------=
+-----
+
+INF I TKL-BOKEN         ....
+
+
+
+KVITTO L=C4MNAT           ....
+
+
+
+Blankett f=F6r ordergivningsdriftplats vid inst=E4llelse av ordinarie t=E5g=
+ i system M/F
+
+
+
+Upplagd                 ....
+
+
+
+Kontroll                ....
+
+Handl=E4ggaren =E4r konsult p=E5 Trafikverket. / The administrator is a con=
+sultant at Trafikverket (Swedish Transport Administration).
+
+--_000_F130D800C07D9B43A30730E8602FF8F7A8BB91E8TRV0176trafikve_
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-micr=
+osoft-com:office:office" xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" xmlns=3D"http:=
+//www.w3.org/TR/REC-html40">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859-=
+1">
+<meta name=3D"Generator" content=3D"Microsoft Word 15 (filtered medium)">
+<style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:Consolas;
+	panose-1:2 11 6 9 2 2 4 3 2 4;}
+@font-face
+	{font-family:"Lucida Console";
+	panose-1:2 11 6 9 4 5 4 2 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#0563C1;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:#954F72;
+	text-decoration:underline;}
+p
+	{mso-style-priority:99;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+pre
+	{mso-style-priority:99;
+	mso-style-link:"HTML - f=F6rformaterad Char";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:10.0pt;
+	font-family:"Courier New";}
+span.HTML-frformateradChar
+	{mso-style-name:"HTML - f=F6rformaterad Char";
+	mso-style-priority:99;
+	mso-style-link:"HTML - f=F6rformaterad";
+	font-family:"Consolas","serif";}
+span.E-postmall20
+	{mso-style-type:personal-reply;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:70.85pt 70.85pt 70.85pt 70.85pt;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]-->
+</head>
+<body lang=3D"SV" link=3D"#0563C1" vlink=3D"#954F72">
+<div class=3D"WordSection1">
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,&quot;sans-serif&quot;;color:#1F497D;mso-fareast-language:EN-US=
+"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"mso-fareast-language:EN-US"><o:p>&nbs=
+p;</o:p></span></p>
+<div>
+<div style=3D"border:none;border-top:solid #E1E1E1 1.0pt;padding:3.0pt 0cm =
+0cm 0cm">
+<p class=3D"MsoNormal"><b><span style=3D"font-size:11.0pt;font-family:&quot=
+;Calibri&quot;,&quot;sans-serif&quot;">Fr=E5n:</span></b><span style=3D"fon=
+t-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;"> trai=
+nplan@trafikverket.se [mailto:trainplan@trafikverket.se]
+<br>
+<b>Skickat:</b> den 7 februari 2014 11:11<br>
+<b>Till:</b> Tidtabeller Dlc Malm=F6<br>
+<b>=C4mne:</b> [NR 2086924] T14.1 (M,NR,ST) - T=C5G 40554<o:p></o:p></span>=
+</p>
+</div>
+</div>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<pre><span style=3D"font-family:&quot;Lucida Console&quot;"><o:p>&nbsp;</o:=
+p></span></pre>
+<p><u><span style=3D"font-size:10.0pt;font-family:&quot;Lucida Console&quot=
+;">TL -- T14.1 -- Trafikverket - NR 2086924 -- 7 feb 2014 11:10:46&nbsp; --=
+ BLANKETT 22<o:p></o:p></span></u></p>
+<pre><span style=3D"font-family:&quot;Lucida Console&quot;"><o:p>&nbsp;</o:=
+p></span></pre>
+<pre><span style=3D"font-family:&quot;Lucida Console&quot;">MOTTAGARE:<o:p>=
+</o:p></span></pre>
+<pre><span style=3D"font-family:&quot;Lucida Console&quot;">TKL=C5P, TKLTP,=
+ Tidtabell TLC Malm=F6, HECTOR, TLSYD<o:p></o:p></span></pre>
+<pre><span style=3D"font-family:&quot;Lucida Console&quot;"><o:p>&nbsp;</o:=
+p></span></pre>
+<pre><span style=3D"font-family:&quot;Lucida Console&quot;">T=C5G 40554 Ska=
+ G=E5<o:p></o:p></span></pre>
+<pre><span style=3D"font-family:&quot;Lucida Console&quot;">Malm=F6 Godsban=
+g=E5rd - Katrineholms c&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp; 140421-140511: L<o:p></o:p></span></pre>
+<pre><span style=3D"font-family:&quot;Lucida Console&quot;">&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp; 140602-140608: L<o:p></o:p></span></pre>
+<pre><span style=3D"font-family:&quot;Lucida Console&quot;"><o:p>&nbsp;</o:=
+p></span></pre>
+<pre><span style=3D"font-family:&quot;Lucida Console&quot;">T=C5GSLAG GT<o:=
+p></o:p></span></pre>
+<pre><span style=3D"font-family:&quot;Lucida Console&quot;"><o:p>&nbsp;</o:=
+p></span></pre>
+<table class=3D"MsoNormalTable" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" width=3D"750" style=3D"width:450.0pt">
+<tbody>
+<tr>
+<td colspan=3D"4" valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt">
+<p class=3D"MsoNormal"><o:p></o:p></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Lu=
+cida Console&quot;">K=F6rplan<o:p></o:p></span></p>
+</td>
+</tr>
+<tr>
+<td colspan=3D"4" valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Lu=
+cida Console&quot;">-------------------------------------------------------=
+-----------------------------------<o:p></o:p></span></p>
+</td>
+</tr>
+<tr>
+<td width=3D"225" valign=3D"top" style=3D"width:135.0pt;padding:.75pt .75pt=
+ .75pt .75pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Lu=
+cida Console&quot;">TPL<o:p></o:p></span></p>
+</td>
+<td width=3D"45" valign=3D"top" style=3D"width:27.0pt;padding:.75pt .75pt .=
+75pt .75pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Lu=
+cida Console&quot;">ANK<o:p></o:p></span></p>
+</td>
+<td width=3D"45" valign=3D"top" style=3D"width:27.0pt;padding:.75pt .75pt .=
+75pt .75pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Lu=
+cida Console&quot;">AVG<o:p></o:p></span></p>
+</td>
+<td width=3D"600" valign=3D"top" style=3D"width:360.0pt;padding:.75pt .75pt=
+ .75pt .75pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Lu=
+cida Console&quot;">=D6VRIGT<o:p></o:p></span></p>
+</td>
+</tr>
+<tr>
+<td colspan=3D"4" valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Lu=
+cida Console&quot;">-------------------------------------------------------=
+-----------------------------------<o:p></o:p></span></p>
+</td>
+</tr>
+<tr>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Lu=
+cida Console&quot;">Malm=F6 Godsbang=E5rd<o:p></o:p></span></p>
+</td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt"></td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Lu=
+cida Console&quot;">0358<o:p></o:p></span></p>
+</td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt"></td>
+</tr>
+<tr>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Lu=
+cida Console&quot;">Arl=F6v<o:p></o:p></span></p>
+</td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt"></td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Lu=
+cida Console&quot;">0402<o:p></o:p></span></p>
+</td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt"></td>
+</tr>
+<tr>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Lu=
+cida Console&quot;">Fl=E4die<o:p></o:p></span></p>
+</td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt"></td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Lu=
+cida Console&quot;">0411<o:p></o:p></span></p>
+</td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt"></td>
+</tr>
+<tr>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Lu=
+cida Console&quot;">K=E4vlinge<o:p></o:p></span></p>
+</td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt"></td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Lu=
+cida Console&quot;">0417<o:p></o:p></span></p>
+</td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt"></td>
+</tr>
+<tr>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Lu=
+cida Console&quot;">Teckomatorp<o:p></o:p></span></p>
+</td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt"></td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt">
+<p class=3D"MsoNormal"><b><span style=3D"font-size:10.0pt;font-family:&quot=
+;Lucida Console&quot;">0423</span></b><span style=3D"font-size:10.0pt;font-=
+family:&quot;Lucida Console&quot;"><o:p></o:p></span></p>
+</td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt">
+<p class=3D"MsoNormal"><b><span style=3D"font-size:10.0pt;font-family:&quot=
+;Lucida Console&quot;">K-M=F6ter&nbsp;41071&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;(140428-140504:&nbsp;L,</span></b><span style=3D"font-size:10.0pt=
+;font-family:&quot;Lucida Console&quot;"><br>
+<b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;140602-140608:&nbsp;L=
+)</b><o:p></o:p></span></p>
+</td>
+</tr>
+<tr>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Lu=
+cida Console&quot;">Billesholm<o:p></o:p></span></p>
+</td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt"></td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Lu=
+cida Console&quot;">0446<o:p></o:p></span></p>
+</td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Lu=
+cida Console&quot;">Obevakad<o:p></o:p></span></p>
+</td>
+</tr>
+<tr>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Lu=
+cida Console&quot;">=C5storp<o:p></o:p></span></p>
+</td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt"></td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Lu=
+cida Console&quot;">0455<o:p></o:p></span></p>
+</td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt"></td>
+</tr>
+<tr>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Lu=
+cida Console&quot;">K=E4rreberga<o:p></o:p></span></p>
+</td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt"></td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Lu=
+cida Console&quot;">0500<o:p></o:p></span></p>
+</td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt"></td>
+</tr>
+<tr>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Lu=
+cida Console&quot;">Kvidinge<o:p></o:p></span></p>
+</td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt"></td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Lu=
+cida Console&quot;">0504<o:p></o:p></span></p>
+</td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt"></td>
+</tr>
+<tr>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Lu=
+cida Console&quot;">Klippan<o:p></o:p></span></p>
+</td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Lu=
+cida Console&quot;">0508<o:p></o:p></span></p>
+</td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Lu=
+cida Console&quot;">0513<o:p></o:p></span></p>
+</td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt"></td>
+</tr>
+<tr>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Lu=
+cida Console&quot;">Hyllstofta<o:p></o:p></span></p>
+</td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt"></td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Lu=
+cida Console&quot;">0523<o:p></o:p></span></p>
+</td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt"></td>
+</tr>
+<tr>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Lu=
+cida Console&quot;">Perstorp<o:p></o:p></span></p>
+</td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt"></td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Lu=
+cida Console&quot;">0527<o:p></o:p></span></p>
+</td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt"></td>
+</tr>
+<tr>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Lu=
+cida Console&quot;">V=E4stra Torup<o:p></o:p></span></p>
+</td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt"></td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Lu=
+cida Console&quot;">0532<o:p></o:p></span></p>
+</td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt"></td>
+</tr>
+<tr>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Lu=
+cida Console&quot;">Tyringe<o:p></o:p></span></p>
+</td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt"></td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Lu=
+cida Console&quot;">0536<o:p></o:p></span></p>
+</td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt"></td>
+</tr>
+<tr>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Lu=
+cida Console&quot;">Finja<o:p></o:p></span></p>
+</td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt"></td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Lu=
+cida Console&quot;">0540<o:p></o:p></span></p>
+</td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt"></td>
+</tr>
+<tr>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Lu=
+cida Console&quot;">H=E4ssleholm<o:p></o:p></span></p>
+</td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt"></td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Lu=
+cida Console&quot;">0544<o:p></o:p></span></p>
+</td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt"></td>
+</tr>
+<tr>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Lu=
+cida Console&quot;">Mosselund<o:p></o:p></span></p>
+</td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt"></td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Lu=
+cida Console&quot;">0550<o:p></o:p></span></p>
+</td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt"></td>
+</tr>
+<tr>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Lu=
+cida Console&quot;">H=E4stveda<o:p></o:p></span></p>
+</td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt"></td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Lu=
+cida Console&quot;">0556<o:p></o:p></span></p>
+</td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt"></td>
+</tr>
+<tr>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Lu=
+cida Console&quot;">Osby<o:p></o:p></span></p>
+</td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt"></td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Lu=
+cida Console&quot;">0604<o:p></o:p></span></p>
+</td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt"></td>
+</tr>
+<tr>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Lu=
+cida Console&quot;">Tunneby<o:p></o:p></span></p>
+</td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt"></td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Lu=
+cida Console&quot;">0610<o:p></o:p></span></p>
+</td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt"></td>
+</tr>
+<tr>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Lu=
+cida Console&quot;">=C4lmhult<o:p></o:p></span></p>
+</td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt"></td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Lu=
+cida Console&quot;">0617<o:p></o:p></span></p>
+</td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt"></td>
+</tr>
+<tr>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Lu=
+cida Console&quot;">Di=F6 Norra<o:p></o:p></span></p>
+</td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt"></td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Lu=
+cida Console&quot;">0624<o:p></o:p></span></p>
+</td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt"></td>
+</tr>
+<tr>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Lu=
+cida Console&quot;">Eneryda<o:p></o:p></span></p>
+</td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt"></td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Lu=
+cida Console&quot;">0631<o:p></o:p></span></p>
+</td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt"></td>
+</tr>
+<tr>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Lu=
+cida Console&quot;">Vislanda<o:p></o:p></span></p>
+</td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt"></td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Lu=
+cida Console&quot;">0638<o:p></o:p></span></p>
+</td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt"></td>
+</tr>
+<tr>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Lu=
+cida Console&quot;">Bl=E4dinge<o:p></o:p></span></p>
+</td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt"></td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Lu=
+cida Console&quot;">0642<o:p></o:p></span></p>
+</td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt"></td>
+</tr>
+<tr>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Lu=
+cida Console&quot;">Alvesta<o:p></o:p></span></p>
+</td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt"></td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Lu=
+cida Console&quot;">0647<o:p></o:p></span></p>
+</td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt"></td>
+</tr>
+<tr>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Lu=
+cida Console&quot;">G=E5vetorp<o:p></o:p></span></p>
+</td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt"></td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Lu=
+cida Console&quot;">0651<o:p></o:p></span></p>
+</td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt"></td>
+</tr>
+<tr>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Lu=
+cida Console&quot;">Moheda<o:p></o:p></span></p>
+</td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt"></td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Lu=
+cida Console&quot;">0655<o:p></o:p></span></p>
+</td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt"></td>
+</tr>
+<tr>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Lu=
+cida Console&quot;">Lidn=E4s<o:p></o:p></span></p>
+</td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt"></td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Lu=
+cida Console&quot;">0700<o:p></o:p></span></p>
+</td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt"></td>
+</tr>
+<tr>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Lu=
+cida Console&quot;">Grevaryd<o:p></o:p></span></p>
+</td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt"></td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Lu=
+cida Console&quot;">0706<o:p></o:p></span></p>
+</td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt"></td>
+</tr>
+<tr>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Lu=
+cida Console&quot;">R=F6rvik<o:p></o:p></span></p>
+</td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt"></td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Lu=
+cida Console&quot;">0712<o:p></o:p></span></p>
+</td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt"></td>
+</tr>
+<tr>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Lu=
+cida Console&quot;">Stockaryd<o:p></o:p></span></p>
+</td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt"></td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Lu=
+cida Console&quot;">0718<o:p></o:p></span></p>
+</td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt"></td>
+</tr>
+<tr>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Lu=
+cida Console&quot;">Aleholm<o:p></o:p></span></p>
+</td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt"></td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Lu=
+cida Console&quot;">0725<o:p></o:p></span></p>
+</td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt"></td>
+</tr>
+<tr>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Lu=
+cida Console&quot;">Ulvstorp<o:p></o:p></span></p>
+</td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt"></td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Lu=
+cida Console&quot;">0731<o:p></o:p></span></p>
+</td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt"></td>
+</tr>
+<tr>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Lu=
+cida Console&quot;">Grimstorp<o:p></o:p></span></p>
+</td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt"></td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Lu=
+cida Console&quot;">0737<o:p></o:p></span></p>
+</td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt"></td>
+</tr>
+<tr>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Lu=
+cida Console&quot;">N=E4ssj=F6 c<o:p></o:p></span></p>
+</td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Lu=
+cida Console&quot;">0746<o:p></o:p></span></p>
+</td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Lu=
+cida Console&quot;">0816<o:p></o:p></span></p>
+</td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Lu=
+cida Console&quot;">F=F6rarbyte<o:p></o:p></span></p>
+</td>
+</tr>
+<tr>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Lu=
+cida Console&quot;">Gamlarp<o:p></o:p></span></p>
+</td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt"></td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Lu=
+cida Console&quot;">0821<o:p></o:p></span></p>
+</td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt"></td>
+</tr>
+<tr>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Lu=
+cida Console&quot;">Vimnarp<o:p></o:p></span></p>
+</td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt"></td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Lu=
+cida Console&quot;">0824<o:p></o:p></span></p>
+</td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt"></td>
+</tr>
+<tr>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Lu=
+cida Console&quot;">Flisby<o:p></o:p></span></p>
+</td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt"></td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Lu=
+cida Console&quot;">0831<o:p></o:p></span></p>
+</td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt"></td>
+</tr>
+<tr>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Lu=
+cida Console&quot;">Ralings=E5s<o:p></o:p></span></p>
+</td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt"></td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Lu=
+cida Console&quot;">0837<o:p></o:p></span></p>
+</td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt"></td>
+</tr>
+<tr>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Lu=
+cida Console&quot;">Frinnaryd<o:p></o:p></span></p>
+</td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt"></td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Lu=
+cida Console&quot;">0842<o:p></o:p></span></p>
+</td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt"></td>
+</tr>
+<tr>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Lu=
+cida Console&quot;">Gripenberg<o:p></o:p></span></p>
+</td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt"></td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Lu=
+cida Console&quot;">0846<o:p></o:p></span></p>
+</td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt"></td>
+</tr>
+<tr>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Lu=
+cida Console&quot;">Tran=E5s<o:p></o:p></span></p>
+</td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt"></td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Lu=
+cida Console&quot;">0852<o:p></o:p></span></p>
+</td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt"></td>
+</tr>
+<tr>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Lu=
+cida Console&quot;">Sommen<o:p></o:p></span></p>
+</td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt"></td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Lu=
+cida Console&quot;">0900<o:p></o:p></span></p>
+</td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt"></td>
+</tr>
+<tr>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Lu=
+cida Console&quot;">Boxholm<o:p></o:p></span></p>
+</td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt"></td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Lu=
+cida Console&quot;">0905<o:p></o:p></span></p>
+</td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt"></td>
+</tr>
+<tr>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Lu=
+cida Console&quot;">Lindekullen<o:p></o:p></span></p>
+</td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt"></td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Lu=
+cida Console&quot;">0910<o:p></o:p></span></p>
+</td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt"></td>
+</tr>
+<tr>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Lu=
+cida Console&quot;">Mj=F6lby<o:p></o:p></span></p>
+</td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt"></td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Lu=
+cida Console&quot;">0915<o:p></o:p></span></p>
+</td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt"></td>
+</tr>
+<tr>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Lu=
+cida Console&quot;">Mantorp<o:p></o:p></span></p>
+</td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt"></td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Lu=
+cida Console&quot;">0921<o:p></o:p></span></p>
+</td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt"></td>
+</tr>
+<tr>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Lu=
+cida Console&quot;">Vikingstad<o:p></o:p></span></p>
+</td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt"></td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Lu=
+cida Console&quot;">0928<o:p></o:p></span></p>
+</td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt"></td>
+</tr>
+<tr>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Lu=
+cida Console&quot;">Link=F6pings c<o:p></o:p></span></p>
+</td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt"></td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Lu=
+cida Console&quot;">0935<o:p></o:p></span></p>
+</td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt"></td>
+</tr>
+<tr>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Lu=
+cida Console&quot;">Linghem<o:p></o:p></span></p>
+</td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt"></td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Lu=
+cida Console&quot;">0942<o:p></o:p></span></p>
+</td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt"></td>
+</tr>
+<tr>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Lu=
+cida Console&quot;">Gistad<o:p></o:p></span></p>
+</td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt"></td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Lu=
+cida Console&quot;">0948<o:p></o:p></span></p>
+</td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt"></td>
+</tr>
+<tr>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Lu=
+cida Console&quot;">Kimstad<o:p></o:p></span></p>
+</td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt"></td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Lu=
+cida Console&quot;">0953<o:p></o:p></span></p>
+</td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt"></td>
+</tr>
+<tr>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Lu=
+cida Console&quot;">Fiskeby<o:p></o:p></span></p>
+</td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt"></td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Lu=
+cida Console&quot;">1002<o:p></o:p></span></p>
+</td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt"></td>
+</tr>
+<tr>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Lu=
+cida Console&quot;">Norrk=F6pings c<o:p></o:p></span></p>
+</td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt"></td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Lu=
+cida Console&quot;">1006<o:p></o:p></span></p>
+</td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt"></td>
+</tr>
+<tr>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Lu=
+cida Console&quot;">=C5by<o:p></o:p></span></p>
+</td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt"></td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Lu=
+cida Console&quot;">1014<o:p></o:p></span></p>
+</td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt"></td>
+</tr>
+<tr>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Lu=
+cida Console&quot;">Simonstorp<o:p></o:p></span></p>
+</td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt"></td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Lu=
+cida Console&quot;">1025<o:p></o:p></span></p>
+</td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt"></td>
+</tr>
+<tr>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Lu=
+cida Console&quot;">Str=E5ngsj=F6<o:p></o:p></span></p>
+</td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt"></td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Lu=
+cida Console&quot;">1034<o:p></o:p></span></p>
+</td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt"></td>
+</tr>
+<tr>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Lu=
+cida Console&quot;">Katrineholms c<o:p></o:p></span></p>
+</td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Lu=
+cida Console&quot;">1042<o:p></o:p></span></p>
+</td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt"></td>
+<td valign=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Lu=
+cida Console&quot;">Genomfartst=E5g&nbsp;till&nbsp;41055<o:p></o:p></span><=
+/p>
+</td>
+</tr>
+</tbody>
+</table>
+<pre><span style=3D"font-family:&quot;Lucida Console&quot;"><o:p>&nbsp;</o:=
+p></span></pre>
+<pre><span style=3D"font-family:&quot;Lucida Console&quot;"><o:p>&nbsp;</o:=
+p></span></pre>
+<pre><span style=3D"font-family:&quot;Lucida Console&quot;">---------------=
+---------------------------------------------------------------------------=
+<o:p></o:p></span></pre>
+<pre><span style=3D"font-family:&quot;Lucida Console&quot;">ANM: 140115 HEC=
+TOR RAIL AB<o:p></o:p></span></pre>
+<pre><span style=3D"font-family:&quot;Lucida Console&quot;"><o:p>&nbsp;</o:=
+p></span></pre>
+<pre><span style=3D"font-family:&quot;Lucida Console&quot;"><o:p>&nbsp;</o:=
+p></span></pre>
+<pre><span style=3D"font-family:&quot;Lucida Console&quot;"><o:p>&nbsp;</o:=
+p></span></pre>
+<pre><span style=3D"font-family:&quot;Lucida Console&quot;">7 feb 2014 Traf=
+ikverket<o:p></o:p></span></pre>
+<pre><span style=3D"font-family:&quot;Lucida Console&quot;"><o:p>&nbsp;</o:=
+p></span></pre>
+<pre><span style=3D"font-family:&quot;Lucida Console&quot;"><br>BESTYRKES -=
+ DP: ...&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; TKL: ................=
+....<o:p></o:p></span></pre>
+<pre><span style=3D"font-family:&quot;Lucida Console&quot;"><br><br><o:p></=
+o:p></span></pre>
+<pre><span style=3D"font-family:&quot;Lucida Console&quot;"><br>KOPIA MOTTA=
+GEN: ...............................................<o:p></o:p></span></pre=
+>
+<pre><span style=3D"font-family:&quot;Lucida Console&quot;"><br>&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp; F=D6RARE<o:p></o:p></span></pre>
+<pre><span style=3D"font-family:&quot;Lucida Console&quot;"><br><br><o:p></=
+o:p></span></pre>
+<pre><span style=3D"font-family:&quot;Lucida Console&quot;"><br>UTF=D6RD =
+=C5TG=C4RD&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SIGN=
+<o:p></o:p></span></pre>
+<pre><span style=3D"font-family:&quot;Lucida Console&quot;"><br>-----------=
+---------------------------------------------------------------------<o:p><=
+/o:p></span></pre>
+<pre><span style=3D"font-family:&quot;Lucida Console&quot;"><br>INF I TKL-B=
+OKEN&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ....<o:p></o:p></span>=
+</pre>
+<pre><span style=3D"font-family:&quot;Lucida Console&quot;"><br><br><o:p></=
+o:p></span></pre>
+<pre><span style=3D"font-family:&quot;Lucida Console&quot;"><br>KVITTO L=C4=
+MNAT&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ....<o:p><=
+/o:p></span></pre>
+<pre><span style=3D"font-family:&quot;Lucida Console&quot;"><br><br><o:p></=
+o:p></span></pre>
+<pre><span style=3D"font-family:&quot;Lucida Console&quot;"><br>Blankett f=
+=F6r ordergivningsdriftplats vid inst=E4llelse av ordinarie t=E5g i system =
+M/F<o:p></o:p></span></pre>
+<pre><span style=3D"font-family:&quot;Lucida Console&quot;"><br> <o:p></o:p=
+></span></pre>
+<pre><span style=3D"font-family:&quot;Lucida Console&quot;"><br>Upplagd&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp; ....<o:p></o:p></span></pre>
+<pre><span style=3D"font-family:&quot;Lucida Console&quot;"><br> <o:p></o:p=
+></span></pre>
+<pre><span style=3D"font-family:&quot;Lucida Console&quot;"><br>Kontroll&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp; .... <o:p></o:p></span></pre>
+</div>
+<font face=3D"arial" size=3D"1">Handl=E4ggaren =E4r konsult p=E5 Trafikverk=
+et. / The administrator is a consultant at Trafikverket (Swedish Transport =
+Administration).</font>
+</body>
+</html>
+
+--_000_F130D800C07D9B43A30730E8602FF8F7A8BB91E8TRV0176trafikve_--

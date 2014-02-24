@@ -1,0 +1,95 @@
+Från:	trainplan@trafikverket.se
+Skickat:	den 10 oktober 2013 11:31
+Till:	Tidtabeller Dlc Malmö
+Ämne:	[NR 2013968] T13.1 (M) - TÅG 23216
+
+
+TL -- T13.1 -- Trafikverket - NR 2013968 -- 10 okt 2013 11:30:14 -- BLANKETT 
+22
+
+MOTTAGARE:
+TKLBG, TKLHF, TKLOH, DTKLOH, Tidtabell TLC Malmö, TGSÖDRA, InfraNord, TKLMÖA
+TLSYD
+
+TÅG 23216 Ska Gå
+Oskarshamn - Hultsfred                                   131118-131124: TI
+
+TÅGSLAG TJT
+
+ 
+Körplan
+------------------------------------------------------------------------------------------
+TPL
+ANK
+AVG
+ÖVRIGT
+------------------------------------------------------------------------------------------
+Oskarshamn
+
+0955
+Obevakad 
+K-Möter 23215
+Berga
+1031
+1033
+K-Möter 8305
+Mörlunda
+1053
+1057
+Obevakad 
+K-Möter 6327
+Hultsfred
+1123
+
+
+
+
+------------------------------------------------------------------------------
+------------
+ANM: TÅG 6327   K-Möter 23216 i Mörlunda           131118-131124: TI
+     TÅG 8307   K-Möter 23216 i Hultsfred          131118-131124: TI
+
+     130923 Infranord IMV100s mätvagn Nov
+     sth 60
+     Hf sp 105
+     
+     system M-kontroll /TD
+
+
+
+10 okt 2013 Trafikverket
+
+ 
+BESTYRKES - DP: ...                     TKL: ....................
+ 
+
+ 
+KOPIA MOTTAGEN: ...............................................
+ 
+                                FÖRARE
+ 
+
+ 
+UTFÖRD ÅTGÄRD           SIGN
+ 
+------------------------------------------------------------------------------
+--
+ 
+INF I TKL-BOKEN         ....
+ 
+
+ 
+KVITTO LÄMNAT           ....
+ 
+
+ 
+Blankett för ordergivningsdriftplats vid inställelse av ordinarie tåg i system 
+M/F
+ 
+ 
+ 
+Upplagd                 ....
+ 
+ 
+ 
+Kontroll                .... 

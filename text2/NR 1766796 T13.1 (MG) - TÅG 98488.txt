@@ -1,0 +1,135 @@
+Från:	trainplan@trafikverket.se
+Skickat:	den 6 september 2013 13:24
+Till:	Tidtabeller Dlc Malmö
+Ämne:	[NR 1766796] T13.1 (M,G) - TÅG 98488
+
+
+TL -- T13.1 -- Trafikverket - NR 1766796 -- 6 sep 2013 13:23:29  -- BLANKETT 
+22
+
+MOTTAGARE:
+TKLAV, TKLJÖGB, TKLKVH, TKLMÅP, TKLSYD, TKLV , TKLVGD, FJTKLG
+Tidtabell TLC Malmö,  TGSÖDRA,  TLVAST,  TLSYD,  Skyltning DLC Malmö
+ Skyltning DLC Göteborg
+
+TÅG 98488 Ska Gå
+Växjö - Jönköpings c                                     131028-131103: L
+
+TÅGSLAG RST
+
+ 
+Körplan
+------------------------------------------------------------------------------------------
+TPL
+ANK
+AVG
+ÖVRIGT
+------------------------------------------------------------------------------------------
+Växjö
+
+0942
+
+Räppe
+0945
+0946
+
+Gemla
+0950
+0950
+På/Av
+Alvesta
+0955
+1000
+På/Av
+Rydaholm
+1011
+1011
+På/Av
+Bor
+1020
+1022
+På/Av
+Värnamo
+1030
+1040
+På/Av 
+K-Möter 8545 
+K-Möter 8535
+Klevshult
+
+1053
+
+Skillingaryd
+1059
+1059
+Obevakad 
+På/Av
+Vaggeryd
+1105
+1117
+På/Av 
+K-Möter 8503
+Månsarp
+
+1133
+
+Jönköpings godsbangård
+
+1149
+Fjärrbevakad
+Jönköpings c
+1155
+
+
+
+
+------------------------------------------------------------------------------
+------------
+ANM: TÅG 8537   K-Möter 98488 i Vaggeryd           131028-131103: L
+     TÅG 8503   K-Möter 98488 i Vaggeryd           131028-131103: L
+     TÅG 8547   K-Möter 98488 i Jönköpings godsban 131028-131103: L
+
+     130828 DSB Småland/Ahmed
+     Smålands Kulturfestival extratåg
+     fr tjt 98481
+     
+     System M-kontroll //TD
+
+
+
+6 sep 2013 Trafikverket
+
+ 
+BESTYRKES - DP: ...                     TKL: ....................
+ 
+
+ 
+KOPIA MOTTAGEN: ...............................................
+ 
+                                FÖRARE
+ 
+
+ 
+UTFÖRD ÅTGÄRD           SIGN
+ 
+------------------------------------------------------------------------------
+--
+ 
+INF I TKL-BOKEN         ....
+ 
+
+ 
+KVITTO LÄMNAT           ....
+ 
+
+ 
+Blankett för ordergivningsdriftplats vid inställelse av ordinarie tåg i system 
+M/F
+ 
+ 
+ 
+Upplagd                 ....
+ 
+ 
+ 
+Kontroll                .... 

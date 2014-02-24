@@ -1,0 +1,307 @@
+Från: <jerk.brorsson@trafikverket.se>
+Ämne: VB: [NR 2086924] T14.1 (M,NR,ST) - TÅG 40554
+Datum: 14 februari 2014 15:46:57 CET
+Till: <jerk.brorsson@ddp.se>
+
+ 
+ 
+Från: trainplan@trafikverket.se [mailto:trainplan@trafikverket.se]  Skickat: den 7 februari 2014 11:11 Till: Tidtabeller Dlc Malmö Ämne: [NR 2086924] T14.1 (M,NR,ST) - TÅG 40554
+ 
+ 
+TL -- T14.1 -- Trafikverket - NR 2086924 -- 7 feb 2014 11:10:46  -- BLANKETT 22
+ 
+MOTTAGARE:
+TKLÅP, TKLTP, Tidtabell TLC Malmö, HECTOR, TLSYD
+ 
+TÅG 40554 Ska Gå
+Malmö Godsbangård - Katrineholms c                       140421-140511: L
+                                                         140602-140608: L
+ 
+TÅGSLAG GT
+ 
+
+Körplan
+------------------------------------------------------------------------------------------
+TPL
+ANK
+AVG
+ÖVRIGT
+------------------------------------------------------------------------------------------
+Malmö Godsbangård
+
+0358
+
+Arlöv
+
+0402
+
+Flädie
+
+0411
+
+Kävlinge
+
+0417
+
+Teckomatorp
+
+0423
+K-Möter 41071       (140428-140504: L,                      140602-140608: L)
+Billesholm
+
+0446
+Obevakad
+Åstorp
+
+0455
+
+Kärreberga
+
+0500
+
+Kvidinge
+
+0504
+
+Klippan
+0508
+0513
+
+Hyllstofta
+
+0523
+
+Perstorp
+
+0527
+
+Västra Torup
+
+0532
+
+Tyringe
+
+0536
+
+Finja
+
+0540
+
+Hässleholm
+
+0544
+
+Mosselund
+
+0550
+
+Hästveda
+
+0556
+
+Osby
+
+0604
+
+Tunneby
+
+0610
+
+Älmhult
+
+0617
+
+Diö Norra
+
+0624
+
+Eneryda
+
+0631
+
+Vislanda
+
+0638
+
+Blädinge
+
+0642
+
+Alvesta
+
+0647
+
+Gåvetorp
+
+0651
+
+Moheda
+
+0655
+
+Lidnäs
+
+0700
+
+Grevaryd
+
+0706
+
+Rörvik
+
+0712
+
+Stockaryd
+
+0718
+
+Aleholm
+
+0725
+
+Ulvstorp
+
+0731
+
+Grimstorp
+
+0737
+
+Nässjö c
+0746
+0816
+Förarbyte
+Gamlarp
+
+0821
+
+Vimnarp
+
+0824
+
+Flisby
+
+0831
+
+Ralingsås
+
+0837
+
+Frinnaryd
+
+0842
+
+Gripenberg
+
+0846
+
+Tranås
+
+0852
+
+Sommen
+
+0900
+
+Boxholm
+
+0905
+
+Lindekullen
+
+0910
+
+Mjölby
+
+0915
+
+Mantorp
+
+0921
+
+Vikingstad
+
+0928
+
+Linköpings c
+
+0935
+
+Linghem
+
+0942
+
+Gistad
+
+0948
+
+Kimstad
+
+0953
+
+Fiskeby
+
+1002
+
+Norrköpings c
+
+1006
+
+Åby
+
+1014
+
+Simonstorp
+
+1025
+
+Strångsjö
+
+1034
+
+Katrineholms c
+1042
+
+Genomfartståg till 41055
+ 
+ 
+------------------------------------------------------------------------------------------
+ANM: 140115 HECTOR RAIL AB
+ 
+ 
+ 
+7 feb 2014 Trafikverket
+ 
+
+BESTYRKES - DP: ...                     TKL: ....................
+
+
+
+KOPIA MOTTAGEN: ...............................................
+
+                                FÖRARE
+
+
+
+UTFÖRD ÅTGÄRD           SIGN
+
+--------------------------------------------------------------------------------
+
+INF I TKL-BOKEN         ....
+
+
+
+KVITTO LÄMNAT           ....
+
+
+
+Blankett för ordergivningsdriftplats vid inställelse av ordinarie tåg i system M/F
+
+ 
+
+Upplagd                 ....
+
+ 
+
+Kontroll                .... 
+Handläggaren är konsult på Trafikverket. / The administrator is a consultant at Trafikverket (Swedish Transport Administration).

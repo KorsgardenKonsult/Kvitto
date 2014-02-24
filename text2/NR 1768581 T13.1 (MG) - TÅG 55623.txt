@@ -1,0 +1,158 @@
+Från:	trainplan@trafikverket.se
+Skickat:	den 10 september 2013 12:08
+Till:	Tidtabeller Dlc Malmö
+Ämne:	[NR 1768581] T13.1 (M,G) - TÅG 55623
+
+
+TL -- T13.1 -- Trafikverket - NR 1768581 -- 10 sep 2013 12:07:42 -- BLANKETT 
+22
+
+MOTTAGARE:
+TKLKVH, TKLLRD, TKLN, TKLSDR, TKLSYD, TKLTOU, TKLV , TKLVGD, FJTKLG, INFOCG
+FJTKLFUR,  Tidtabell TLC Malmö,  TGSÖDRA,  InfraNord,  TLVAST,  TLSYD
+
+TÅG 55623 Ska Gå
+Nässjö c - Hässleholm                                    130909-130915: TO
+
+TÅGSLAG TJT
+
+ 
+Körplan
+------------------------------------------------------------------------------------------
+TPL
+ANK
+AVG
+ÖVRIGT
+------------------------------------------------------------------------------------------
+Nässjö c
+
+1200
+
+Malmbäck
+
+1213
+Obevakad
+Vaggeryd
+1232
+1238
+K-Möter 8544
+Skillingaryd
+
+1244
+Tkl ger körtillstånd
+Klevshult
+1250
+1348
+K-Möter 8506 
+K-Möter 8534
+Värnamo
+
+1401
+
+Forsheda
+
+1411
+Obevakad
+Reftele
+
+1421
+Obevakad
+Smålandsstenar
+
+1427
+Obevakad
+Landeryd
+
+1435
+Obevakad
+Torup
+
+1449
+Tkl ger körtillstånd
+Oskarström
+
+1503
+Obevakad
+Furet
+
+1516
+
+Halmstads c
+
+1517
+
+Halmstad Rangerbangård
+
+1520
+
+Kistinge
+
+1523
+
+Eldsberga
+
+1528
+
+Genevad
+
+1530
+
+Markaryd
+1555
+1615
+
+Hässleholm
+1639
+
+
+
+
+------------------------------------------------------------------------------
+------------
+ANM: TÅG 8534   K-Möter 55623 i Klevshult          130909-130915: TO
+     TÅG 8508   K-Möter 55623 i Värnamo            130909-130915: TO
+     TÅG 8506   K-Möter 55623 i Klevshult          130909-130915: TO
+     TÅG 8536   K-Möter 55623 i Furet              130909-130915: TO
+     TÅG 6516   K-Möter 55623 i Furet              130909-130915: TO
+
+     Infranord
+     Utbildning Y1
+
+
+
+10 sep 2013 Trafikverket
+
+ 
+BESTYRKES - DP: ...                     TKL: ....................
+ 
+
+ 
+KOPIA MOTTAGEN: ...............................................
+ 
+                                FÖRARE
+ 
+
+ 
+UTFÖRD ÅTGÄRD           SIGN
+ 
+------------------------------------------------------------------------------
+--
+ 
+INF I TKL-BOKEN         ....
+ 
+
+ 
+KVITTO LÄMNAT           ....
+ 
+
+ 
+Blankett för ordergivningsdriftplats vid inställelse av ordinarie tåg i system 
+M/F
+ 
+ 
+ 
+Upplagd                 ....
+ 
+ 
+ 
+Kontroll                .... 

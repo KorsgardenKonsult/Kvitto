@@ -1,0 +1,247 @@
+Från:	trainplan@trafikverket.se
+Skickat:	den 6 februari 2014 12:39
+Till:	Tidtabeller Dlc Hallsberg
+Ämne:	[NR 2086279] T14.1 (GÄ,H,G) - TÅG 16203
+
+
+TL -- T14.1 -- Trafikverket - NR 2086279 -- 6 feb 2014 12:38:33  -- BLANKETT 
+22
+
+MOTTAGARE:
+TKLDGÖ, TKLHLF, TKLKIL, FJTKLH, Tidtabell TLC Hallsberg, TLNORD
+
+TÅG 16203 Ska Gå
+Borlänge c - Nykroppa                                    140224-140316: LS
+                                                Går Ej   140308, 140309
+Nykroppa - Göteborg Skandiahamnen                 140302, 140303, 140316, 
+140317
+
+TÅGSLAG GT
+
+ 
+Körplan
+------------------------------------------------------------------------------------------
+TPL
+ANK
+AVG
+ÖVRIGT
+------------------------------------------------------------------------------------------
+Borlänge c
+
+2108
+
+Sellnäs
+2118
+2121
+
+Ulvshyttan
+2133
+2152
+
+Rämshyttan
+
+2201
+
+Gräsberg
+
+2209
+
+Ludvika
+
+2216
+
+Klenshyttan
+2227
+2231
+
+Grängesberg
+
+2239
+
+Ställdalen
+
+2254
+
+Hällefors
+2327
+2336
+Obevakad             140224-140316: L 
+Tkl ger körtillstånd 140224-140316: S 
+Gäller Ej            140309 
+K-Möter 69230       (140310-140316: LS)
+Nykroppa
+
+0003
+
+Daglösen
+
+0010
+Tkl ger körtillstånd
+Molkom
+
+0033
+Obevakad
+Kil
+0100
+0103
+Förarbyte
+Edsvalla
+
+0114
+
+Grums
+0124
+0138
+
+Segmon
+
+0146
+
+Värmlands Bro
+
+0155
+
+Säffle
+
+0202
+
+Åmål
+
+0215
+
+Tösse
+
+0222
+
+Ånimskog
+
+0231
+
+Köpmannebro
+
+0241
+
+Mellerud
+
+0247
+
+Erikstad
+
+0254
+
+Skälebol
+
+0256
+
+Brålanda
+
+0301
+
+Frändefors
+
+0308
+
+Bjurhem
+
+0313
+
+Öxnered
+
+0320
+
+Trollhättan
+
+0327
+
+Velanda Södra
+
+0333
+
+Varpemossen
+
+0341
+
+Torbacken
+
+0348
+
+Alvhem
+
+0356
+
+Älvängen
+
+0402
+
+Bohus
+
+0414
+
+Agnesberg
+
+0419
+
+Göteborg Marieholm
+
+0424
+
+Göteborg Kville
+
+0427
+
+Pölsebo
+
+0437
+
+Göteborg Skandiahamnen
+0442
+
+
+
+
+------------------------------------------------------------------------------
+------------
+ANM: TÅG 69230  K-Möter 16203 i Hällefors          140310-140316: LS
+
+     Green Cargo AB 14016
+     D-id: 6867, 6876
+     Ersätter 19053
+
+
+
+6 feb 2014 Trafikverket
+
+ 
+BESTYRKES - DP: ...                     TKL: ....................
+ 
+
+ 
+KOPIA MOTTAGEN: ...............................................
+ 
+                                FÖRARE
+ 
+
+ 
+UTFÖRD ÅTGÄRD           SIGN
+ 
+------------------------------------------------------------------------------
+--
+ 
+INF I TKL-BOKEN         ....
+ 
+
+ 
+KVITTO LÄMNAT           ....
+ 
+
+ 
+Blankett för ordergivningsdriftplats vid inställelse av ordinarie tåg i system 
+M/F
+ 
+ 
+ 
+Upplagd                 ....
+ 
+ 
+ 
+Kontroll                .... 

@@ -1,0 +1,108 @@
+Från:	trainplan@trafikverket.se
+Skickat:	den 4 februari 2014 12:06
+Till:	Tidtabeller Dlc Hallsberg
+Ämne:	[NR 2084724] T14.1 (H) - TÅG 48348
+
+
+TL -- T14.1 -- Trafikverket - NR 2084724 -- 4 feb 2014 12:05:26  -- BLANKETT 
+22
+
+MOTTAGARE:
+TKLDGÖ, TKLKIL, TKLSUN, TKLTOY, Tidtabell TLC Hallsberg, TÅGAB, TLNORD
+
+TÅG 48348 Ska Gå
+Torsby - Daglösen                                        140203-140209: O
+
+TÅGSLAG GT
+
+ 
+Körplan
+------------------------------------------------------------------------------------------
+TPL
+ANK
+AVG
+ÖVRIGT
+------------------------------------------------------------------------------------------
+Torsby
+
+1225
+Tkl ger körtillstånd
+Lysvik
+
+1254
+Obevakad
+Sunne
+1322
+1327
+Tkl ger körtillstånd 
+K-Möter 8951
+Rottneros
+
+1337
+Obevakad
+Bäckebron
+
+1353
+
+Kil
+1413
+1518
+
+Molkom
+
+1545
+Obevakad
+Daglösen
+1610
+
+
+
+
+------------------------------------------------------------------------------
+------------
+ANM: TÅG 8951   K-Möter 48348 i Sunne              140203-140209: O
+     TÅG 8955   K-Möter 48348 i Kil                140203-140209: O
+     TÅG 8957   K-Möter 48348 i Kil                140203-140209: O
+
+     Tågab 140203 löpnr 0236.
+     
+     Tamkontroll/CJ
+
+
+
+4 feb 2014 Trafikverket
+
+ 
+BESTYRKES - DP: ...                     TKL: ....................
+ 
+
+ 
+KOPIA MOTTAGEN: ...............................................
+ 
+                                FÖRARE
+ 
+
+ 
+UTFÖRD ÅTGÄRD           SIGN
+ 
+------------------------------------------------------------------------------
+--
+ 
+INF I TKL-BOKEN         ....
+ 
+
+ 
+KVITTO LÄMNAT           ....
+ 
+
+ 
+Blankett för ordergivningsdriftplats vid inställelse av ordinarie tåg i system 
+M/F
+ 
+ 
+ 
+Upplagd                 ....
+ 
+ 
+ 
+Kontroll                .... 

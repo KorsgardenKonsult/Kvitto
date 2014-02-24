@@ -1,0 +1,117 @@
+Från:	trainplan@trafikverket.se
+Skickat:	den 27 augusti 2013 13:15
+Till:	Tidtabeller Dlc Malmö
+Ämne:	[NR 1761654] T13.1 (M) - TÅG 63153
+
+
+TL -- T13.1 -- Trafikverket - NR 1761654 -- 27 aug 2013 13:14:51 -- BLANKETT 
+22
+
+MOTTAGARE:
+TKLSI, TKLTLI, TKLY , DTKLSI, Tidtabell TLC Malmö, TGSÖDRA, InfraNord
+KOORD Mpgb ,  TLSYD
+
+TÅG 63153 Ska Gå
+Lockarp - Simrishamn                                     130923-131117: MTO
+
+TÅGSLAG TJT
+
+ 
+Körplan
+------------------------------------------------------------------------------------------
+TPL
+ANK
+AVG
+ÖVRIGT
+------------------------------------------------------------------------------------------
+Lockarp
+
+0155
+
+Svedala
+
+0208
+
+Lemmeströ
+
+0215
+
+Skurup
+
+0225
+
+Rydsgård
+
+0233
+
+Rynge
+
+0241
+
+Ystad
+
+0256
+Fjärrbevakad
+Köpingebro
+
+0305
+Obevakad
+Tomelilla
+0318
+0323
+Obevakad
+Gärsnäs
+
+0332
+Obevakad
+Simrishamn
+0342
+
+Obevakad (se linjeboken) 
+Ankomstanmälan till tkl TLI
+
+
+------------------------------------------------------------------------------
+------------
+ANM: Infranord  fr 130710, Spårhalka, 50m, sth 120 i tp, sth 40 vid utlägg
+     
+     system m kontroll:HS
+
+
+
+27 aug 2013 Trafikverket
+
+ 
+BESTYRKES - DP: ...                     TKL: ....................
+ 
+
+ 
+KOPIA MOTTAGEN: ...............................................
+ 
+                                FÖRARE
+ 
+
+ 
+UTFÖRD ÅTGÄRD           SIGN
+ 
+------------------------------------------------------------------------------
+--
+ 
+INF I TKL-BOKEN         ....
+ 
+
+ 
+KVITTO LÄMNAT           ....
+ 
+
+ 
+Blankett för ordergivningsdriftplats vid inställelse av ordinarie tåg i system 
+M/F
+ 
+ 
+ 
+Upplagd                 ....
+ 
+ 
+ 
+Kontroll                .... 

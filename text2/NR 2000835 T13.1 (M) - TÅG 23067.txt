@@ -1,0 +1,102 @@
+Från:	trainplan@trafikverket.se
+Skickat:	den 17 september 2013 11:03
+Till:	Tidtabeller Dlc Malmö
+Ämne:	[NR 2000835] T13.1 (M) - TÅG 23067
+
+
+TL -- T13.1 -- Trafikverket - NR 2000835 -- 17 sep 2013 11:02:42 -- BLANKETT 
+22
+
+MOTTAGARE:
+TKLBG, TKLHF, TKLOH, DTKLOH, Tidtabell TLC Malmö, TGSÖDRA
+Nässjö Järnvägsmuseum,  TKLMÖA,  TLSYD
+
+TÅG 23067 Ska Gå
+Hultsfred - Oskarshamn                                   130923-130929: M
+
+TÅGSLAG RST
+
+ 
+Körplan
+------------------------------------------------------------------------------------------
+TPL
+ANK
+AVG
+ÖVRIGT
+------------------------------------------------------------------------------------------
+Hultsfred
+
+0800
+K-Möter 8304
+Mörlunda
+
+0820
+Obevakad
+Berga
+0837
+0901
+K-Möter 8564
+Oskarshamn
+0930
+
+Obevakad
+
+
+------------------------------------------------------------------------------
+------------
+ANM: TÅG 8564   K-Möter 23067 i Berga              130923-130929: M
+
+     System M-kontroll: ChF
+     
+     NJ 130828/Ahlstedt
+     
+     Sms: TMX+vnr
+     
+     218 t, 128 m, sth 80
+     
+     "PTG Tour"
+     
+     Resande fr Vk med lv-buss/smsp.
+     
+     Tsä vxl fr sp 4 i Hf ca kl 07.20 till plf-spår. Tsä vxl ut på hamnspåren 
+i Oh, 
+     åter som 23068 t Bg
+
+
+
+17 sep 2013 Trafikverket
+
+ 
+BESTYRKES - DP: ...                     TKL: ....................
+ 
+
+ 
+KOPIA MOTTAGEN: ...............................................
+ 
+                                FÖRARE
+ 
+
+ 
+UTFÖRD ÅTGÄRD           SIGN
+ 
+------------------------------------------------------------------------------
+--
+ 
+INF I TKL-BOKEN         ....
+ 
+
+ 
+KVITTO LÄMNAT           ....
+ 
+
+ 
+Blankett för ordergivningsdriftplats vid inställelse av ordinarie tåg i system 
+M/F
+ 
+ 
+ 
+Upplagd                 ....
+ 
+ 
+ 
+Kontroll                .... 

@@ -1,0 +1,148 @@
+Från:	trainplan@trafikverket.se
+Skickat:	den 12 april 2013 09:06
+Till:	Tidtabeller Dlc Malmö
+Ämne:	[NR 1690246] T13.1 (M) - TÅG 76757
+
+
+TL -- T13.1 -- Trafikverket - NR 1690246 -- 12 apr 2013 09:06:14 -- BLANKETT 
+22
+
+MOTTAGARE:
+TKLSI, TKLTLI, TKLY , DTKLSI, Tidtabell TLC Malmö, TGSÖDRA, InfraNord, TLSYD
+
+TÅG 76757 Ska Gå
+Lund c - Malmö Godsbangård                               130415-130421: TI
+Malmö Godsbangård - Simrishamn                           130415-130421: O
+
+TÅGSLAG TJT
+
+ 
+Körplan
+------------------------------------------------------------------------------------------
+TPL
+ANK
+AVG
+ÖVRIGT
+------------------------------------------------------------------------------------------
+Lund c
+
+2335
+
+Flackarp
+
+2338
+
+Åkarps norra
+
+2341
+
+Arlöv
+
+2344
+
+Malmö Godsbangård
+2346
+0000
+
+Östervärn
+
+0002
+
+Fosieby
+
+0006
+
+Lockarp
+
+0008
+
+Svedala
+
+0018
+
+Lemmeströ
+
+0024
+
+Skurup
+
+0030
+
+Rydsgård
+
+0035
+
+Rynge
+
+0039
+
+Ystad
+0050
+0053
+K-Möter 1686
+Köpingebro
+
+0100
+Obevakad
+Tomelilla
+0109
+0112
+K-Möter 1590
+Gärsnäs
+
+0125
+Obevakad
+Simrishamn
+0135
+
+Obevakad
+
+
+------------------------------------------------------------------------------
+------------
+ANM: TÅG 1590   K-Möter 76757 i Tomelilla          130415-130421: O
+
+     130411 Infranord IMV100S mätvagn, sth 80
+     extra bev Tli och Y ordnad
+     Arriva ställer upp på sp 25 i Y för fri genomfart
+     
+     System M-kontroll //TD
+
+
+
+12 apr 2013 Trafikverket
+
+ 
+BESTYRKES - DP: ...                     TKL: ....................
+ 
+
+ 
+KOPIA MOTTAGEN: ...............................................
+ 
+                                FÖRARE
+ 
+
+ 
+UTFÖRD ÅTGÄRD           SIGN
+ 
+------------------------------------------------------------------------------
+--
+ 
+INF I TKL-BOKEN         ....
+ 
+
+ 
+KVITTO LÄMNAT           ....
+ 
+
+ 
+Blankett för ordergivningsdriftplats vid inställelse av ordinarie tåg i system 
+M/F
+ 
+ 
+ 
+Upplagd                 ....
+ 
+ 
+ 
+Kontroll                .... 

@@ -1,0 +1,120 @@
+Från:	trainplan@trafikverket.se
+Skickat:	den 21 januari 2014 10:08
+Till:	Tidtabeller Dlc Malmö
+Ämne:	[NR 2076260] T14.1 (M) - TÅG 89003
+
+
+TL -- T14.1 -- Trafikverket - NR 2076260 -- 21 jan 2014 10:07:29 -- BLANKETT 
+22
+
+MOTTAGARE:
+TKLBG, TKLEK, TKLHF, TKLKAC, TKLN, TKLOH, Tidtabell TLC Malmö, TGSÖDRA
+Nässjö Järnvägsmuseum,  TKLMÖA,  TLSYD
+
+TÅG 89003 Ska Gå
+Nässjö c - Oskarshamn                                    140519-140525: L
+
+TÅGSLAG RST
+
+ 
+Körplan
+------------------------------------------------------------------------------------------
+TPL
+ANK
+AVG
+ÖVRIGT
+------------------------------------------------------------------------------------------
+Nässjö c
+
+0825
+
+Ormaryd
+0848
+0855
+På
+Eksjö
+0910
+1026
+Obevakad 
+På 
+K-Möter 7666
+Hjältevad
+1055
+1100
+Tkl ger körtillstånd 
+På
+Mariannelund
+1125
+1140
+Obevakad 
+På
+Hultsfred
+1214
+1240
+På 
+K-Möter 8556
+Mörlunda
+1308
+1315
+Obevakad 
+K-Möter 7670
+Berga
+1334
+1400
+På
+Oskarshamn
+1450
+
+Obevakad
+
+
+------------------------------------------------------------------------------
+------------
+ANM: TÅG 7670   K-Möter 89003 i Mörlunda           140519-140525: L
+     TÅG 8558   K-Möter 89003 i Berga              140519-140525: L
+
+     NÄSSJÖ JÄRNVÄGSMUSEUM 140113
+     140 års jubileum
+     sth 80 km
+     240 m
+     480 ton
+     vxl till hamn vid ankomst Oh.
+
+
+
+21 jan 2014 Trafikverket
+
+ 
+BESTYRKES - DP: ...                     TKL: ....................
+ 
+
+ 
+KOPIA MOTTAGEN: ...............................................
+ 
+                                FÖRARE
+ 
+
+ 
+UTFÖRD ÅTGÄRD           SIGN
+ 
+------------------------------------------------------------------------------
+--
+ 
+INF I TKL-BOKEN         ....
+ 
+
+ 
+KVITTO LÄMNAT           ....
+ 
+
+ 
+Blankett för ordergivningsdriftplats vid inställelse av ordinarie tåg i system 
+M/F
+ 
+ 
+ 
+Upplagd                 ....
+ 
+ 
+ 
+Kontroll                .... 

@@ -1,0 +1,82 @@
+Från:	trainplan@trafikverket.se
+Skickat:	den 28 november 2013 13:14
+Till:	Tidtabeller Dlc Malmö
+Ämne:	[NR 2046647] T14.1 (M) - TÅG 6363
+
+
+TL -- T14.1 -- Trafikverket - NR 2046647 -- 28 nov 2013 13:14:05 -- BLANKETT 
+22
+
+MOTTAGARE:
+TKLMBÄ, TKLN, TKLVGD, GCT, Tidtabell TLC Malmö, TLSYD
+
+TÅG 6363 Ska Gå
+Nässjö c - Vaggeryd                                      TITO
+
+TÅGSLAG GT
+
+ 
+Körplan
+------------------------------------------------------------------------------------------
+TPL
+ANK
+AVG
+ÖVRIGT
+------------------------------------------------------------------------------------------
+Nässjö c
+
+2055
+
+Malmbäck
+
+2113
+Obevakad
+Vaggeryd
+2136
+
+
+
+
+------------------------------------------------------------------------------
+------------
+ANM: Green Cargo
+     D.id 1140
+
+
+
+28 nov 2013 Trafikverket
+
+ 
+BESTYRKES - DP: ...                     TKL: ....................
+ 
+
+ 
+KOPIA MOTTAGEN: ...............................................
+ 
+                                FÖRARE
+ 
+
+ 
+UTFÖRD ÅTGÄRD           SIGN
+ 
+------------------------------------------------------------------------------
+--
+ 
+INF I TKL-BOKEN         ....
+ 
+
+ 
+KVITTO LÄMNAT           ....
+ 
+
+ 
+Blankett för ordergivningsdriftplats vid inställelse av ordinarie tåg i system 
+M/F
+ 
+ 
+ 
+Upplagd                 ....
+ 
+ 
+ 
+Kontroll                .... 

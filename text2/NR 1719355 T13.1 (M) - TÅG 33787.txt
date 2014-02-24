@@ -1,0 +1,125 @@
+Från:	trainplan@trafikverket.se
+Skickat:	den 3 juni 2013 15:44
+Till:	Tidtabeller Dlc Malmö
+Ämne:	[NR 1719355] T13.1 (M) - TÅG 33787
+
+
+TL -- T13.1 -- Trafikverket - NR 1719355 -- 3 jun 2013 15:43:20  -- BLANKETT 
+22
+
+MOTTAGARE:
+TKLSI, TKLTLI, TKLY , DTKLSI, Tidtabell TLC Malmö, TGSÖDRA, InfraNord
+SPÅRPLAN M,  TLSYD
+
+TÅG 33787 Ska Gå
+Svågertorp - Simrishamn                                  130722-130728: TO
+
+TÅGSLAG TJT
+
+ 
+Körplan
+------------------------------------------------------------------------------------------
+TPL
+ANK
+AVG
+ÖVRIGT
+------------------------------------------------------------------------------------------
+Svågertorp
+
+0007
+
+Lockarp
+
+0008
+
+Svedala
+
+0014
+
+Lemmeströ
+
+0019
+
+Skurup
+0023
+0026
+
+Rydsgård
+
+0029
+
+Rynge
+
+0032
+
+Ystad
+0040
+0050
+K-Möter 1686
+Köpingebro
+
+0055
+Obevakad
+Tomelilla
+0101
+0112
+K-Möter 1590
+Gärsnäs
+
+0122
+Obevakad
+Simrishamn
+0130
+
+Obevakad
+
+
+------------------------------------------------------------------------------
+------------
+ANM: TÅG 1590   K-Möter 33787 i Tomelilla          130722-130728: TO
+
+     130513 IMV 200/Gunnel
+     65 m, sth 160
+     
+     Bevakning Y,Tli ordnad, ok med Arriva
+     
+     System M-kontroll /TD
+
+
+
+3 jun 2013 Trafikverket
+
+ 
+BESTYRKES - DP: ...                     TKL: ....................
+ 
+
+ 
+KOPIA MOTTAGEN: ...............................................
+ 
+                                FÖRARE
+ 
+
+ 
+UTFÖRD ÅTGÄRD           SIGN
+ 
+------------------------------------------------------------------------------
+--
+ 
+INF I TKL-BOKEN         ....
+ 
+
+ 
+KVITTO LÄMNAT           ....
+ 
+
+ 
+Blankett för ordergivningsdriftplats vid inställelse av ordinarie tåg i system 
+M/F
+ 
+ 
+ 
+Upplagd                 ....
+ 
+ 
+ 
+Kontroll                .... 

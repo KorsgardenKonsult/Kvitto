@@ -1,0 +1,132 @@
+Från:	trainplan@trafikverket.se
+Skickat:	den 29 januari 2014 15:53
+Till:	Tidtabeller Dlc Hallsberg
+Ämne:	[NR 2081388] T14.1 (ST,GÄ,H) - TÅG 16620
+
+
+TL -- T14.1 -- Trafikverket - NR 2081388 -- 29 jan 2014 15:52:33 -- BLANKETT 
+22
+
+MOTTAGARE:
+Tidtabell TLC Hallsberg
+
+TÅG 16620 Ska Gå
+Hallstahammar - Söderbärke                               140421-140427: TO
+Söderbärke - Borlänge c                                  140421-140427: F
+
+TÅGSLAG GT
+
+ 
+Körplan
+------------------------------------------------------------------------------------------
+TPL
+ANK
+AVG
+ÖVRIGT
+------------------------------------------------------------------------------------------
+Hallstahammar
+
+2258
+
+Surahammar
+
+2310
+
+Brattheden
+
+2319
+
+Virsbo
+
+2329
+
+Ängelsberg
+2338
+2343
+
+Fagersta c
+
+2356
+Fjärrbevakad 
+K-Möter 9149
+Söderbärke
+
+0018
+Obevakad
+Smedjebacken
+
+0028
+Obevakad
+Ludvika
+0043
+0104
+
+Gräsberg
+
+0119
+
+Rämshyttan
+
+0131
+
+Ulvshyttan
+
+0138
+
+Sellnäs
+
+0145
+
+Borlänge c
+0152
+
+
+
+
+------------------------------------------------------------------------------
+------------
+ANM: Green Cargo 140122
+     
+     D-id 7644
+     Ersätter 6794
+     
+     System M kontroll /VS
+
+
+
+29 jan 2014 Trafikverket
+
+ 
+BESTYRKES - DP: ...                     TKL: ....................
+ 
+
+ 
+KOPIA MOTTAGEN: ...............................................
+ 
+                                FÖRARE
+ 
+
+ 
+UTFÖRD ÅTGÄRD           SIGN
+ 
+------------------------------------------------------------------------------
+--
+ 
+INF I TKL-BOKEN         ....
+ 
+
+ 
+KVITTO LÄMNAT           ....
+ 
+
+ 
+Blankett för ordergivningsdriftplats vid inställelse av ordinarie tåg i system 
+M/F
+ 
+ 
+ 
+Upplagd                 ....
+ 
+ 
+ 
+Kontroll                .... 

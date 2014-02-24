@@ -1,0 +1,135 @@
+Från:	trainplan@trafikverket.se
+Skickat:	den 9 januari 2014 15:28
+Till:	Tidtabeller Dlc Malmö
+Ämne:	[NR 2069714] T14.1 (G,M) - TÅG 95201
+
+
+TL -- T14.1 -- Trafikverket - NR 2069714 -- 9 jan 2014 15:27:25  -- BLANKETT 
+22
+
+MOTTAGARE:
+TKLJÖGB, TKLKVH, TKLMÅP, TKLSYD, TKLV , TKLVGD, Tidtabell TLC Malmö, TGSÖDRA
+TLSYD
+
+TÅG 95201 Ska Gå
+Falköpings c - Värnamo                                   140112
+
+TÅGSLAG TJT
+
+ 
+Körplan
+------------------------------------------------------------------------------------------
+TPL
+ANK
+AVG
+ÖVRIGT
+------------------------------------------------------------------------------------------
+Falköpings c
+
+1005
+
+Vartofta
+
+1014
+
+Sandhem
+1026
+1031
+
+Mullsjö
+
+1040
+
+Habo
+
+1050
+
+Bankeryd
+
+1057
+
+Jönköpings c
+1106
+1107
+Förarbyte
+Jönköpings godsbangård
+1114
+1119
+Fjärrbevakad 
+K-Möter 7612 
+K-Möter 75326
+Månsarp
+
+1200
+
+Vaggeryd
+1238
+1244
+K-Möter 7616
+Skillingaryd
+
+1251
+Obevakad
+Klevshult
+
+1257
+
+Värnamo
+1312
+
+
+
+
+------------------------------------------------------------------------------
+------------
+ANM: TÅG 7616   K-Möter Även 95201 i Vaggeryd      140112
+     TÅG 7634   K-Möter Även 95201 i Värnamo       140112
+
+     System M-kontroll: ChF
+     
+     SMoK 140105/XH
+     
+     Sms: YBo7, 18 m, sth 115. Konstr-ha 90
+     
+     Från stall F, till stall i V
+     ¨
+     
+
+
+
+9 jan 2014 Trafikverket
+
+ 
+BESTYRKES - DP: ...                     TKL: ....................
+ 
+
+ 
+KOPIA MOTTAGEN: ...............................................
+ 
+                                FÖRARE
+ 
+
+ 
+UTFÖRD ÅTGÄRD           SIGN
+ 
+------------------------------------------------------------------------------
+--
+ 
+INF I TKL-BOKEN         ....
+ 
+
+ 
+KVITTO LÄMNAT           ....
+ 
+
+ 
+Blankett för ordergivningsdriftplats vid inställelse av ordinarie tåg i system 
+M/F
+ 
+ 
+ 
+Upplagd                 ....
+ 
+ 
+ 
+Kontroll                .... 

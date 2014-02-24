@@ -1,0 +1,97 @@
+Från:	trainplan@trafikverket.se
+Skickat:	den 27 augusti 2013 13:27
+Till:	Tidtabeller Dlc Malmö
+Ämne:	[NR 1761659] T13.1 (M) - TÅG 54902
+
+
+TL -- T13.1 -- Trafikverket - NR 1761659 -- 27 aug 2013 13:27:02 -- BLANKETT 
+22
+
+MOTTAGARE:
+TKLSI, TKLTLI, TKLY , DTKLSI, Tidtabell TLC Malmö, TGSÖDRA, InfraNord, TLSYD
+
+TÅG 54902 Ska Gå
+Simrishamn - Ystad                                       130916-131117: MTO
+
+TÅGSLAG TJT
+
+ 
+Körplan
+------------------------------------------------------------------------------------------
+TPL
+ANK
+AVG
+ÖVRIGT
+------------------------------------------------------------------------------------------
+Simrishamn
+
+0347
+Obevakad (se linjeboken) 
+Ankomstanmälan till tkl TLI 
+K-Möter 54925       (130916-130922: MTO) 
+K-Möter 63153       (130923-131117: MTO)
+Gärsnäs
+
+0355
+Obevakad
+Tomelilla
+0421
+0426
+Obevakad
+Köpingebro
+
+0438
+Obevakad
+Ystad
+0445
+
+
+
+
+------------------------------------------------------------------------------
+------------
+ANM: TÅG 1201   K-Möter 54902 i Ystad              130916-131117: MTO
+
+     Infranord  fr 130710, Spårhalka, 50m, sth 120 i tp, sth 40 vid utlägg
+     
+     
+     system m kontroll:HS
+
+
+
+27 aug 2013 Trafikverket
+
+ 
+BESTYRKES - DP: ...                     TKL: ....................
+ 
+
+ 
+KOPIA MOTTAGEN: ...............................................
+ 
+                                FÖRARE
+ 
+
+ 
+UTFÖRD ÅTGÄRD           SIGN
+ 
+------------------------------------------------------------------------------
+--
+ 
+INF I TKL-BOKEN         ....
+ 
+
+ 
+KVITTO LÄMNAT           ....
+ 
+
+ 
+Blankett för ordergivningsdriftplats vid inställelse av ordinarie tåg i system 
+M/F
+ 
+ 
+ 
+Upplagd                 ....
+ 
+ 
+ 
+Kontroll                .... 

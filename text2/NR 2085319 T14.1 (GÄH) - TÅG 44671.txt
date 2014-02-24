@@ -1,0 +1,211 @@
+Från:	trainplan@trafikverket.se
+Skickat:	den 5 februari 2014 09:00
+Till:	Tidtabeller Dlc Hallsberg
+Ämne:	[NR 2085319] T14.1 (GÄ,H) - TÅG 44671
+
+
+TL -- T14.1 -- Trafikverket - NR 2085319 -- 5 feb 2014 08:59:22  -- BLANKETT 
+22
+
+MOTTAGARE:
+TKLDGÖ, TKLHLF, TKLKIL, TLOSLO, FJTKLH, Tidtabell TLC Hallsberg, TGVÄSTRA
+TLNORD
+
+TÅG 44671 Ska Gå
+Fliskär - Forsbacka                                      140210-140216: O
+Forsbacka - Charlottenberg                               140210-140216: TO
+
+TÅGSLAG GT
+
+ 
+Körplan
+------------------------------------------------------------------------------------------
+TPL
+ANK
+AVG
+ÖVRIGT
+------------------------------------------------------------------------------------------
+Fliskär
+
+2330
+
+Gävle c
+
+2340
+
+Hagaström
+
+2346
+
+Norra Valbo
+
+2349
+
+Forsbacka
+2356
+0004
+
+Sandviken
+
+0009
+
+Kungsgården
+
+0015
+
+Storvik
+
+0019
+
+Granstanda
+
+0026
+
+Hofors
+
+0031
+
+Långsjön
+
+0038
+
+Ryggen
+0046
+0110
+
+Korsnäs
+
+0120
+
+Falun
+
+0124
+
+Hinsnoret
+
+0130
+
+Ornäs
+
+0135
+
+Borlänge c
+
+0141
+
+Sellnäs
+
+0148
+
+Ulvshyttan
+
+0155
+
+Rämshyttan
+
+0201
+
+Gräsberg
+
+0208
+
+Ludvika
+
+0214
+
+Klenshyttan
+
+0220
+
+Grängesberg
+
+0225
+
+Ställdalen
+0240
+0537
+
+Hällefors
+0605
+0725
+Tkl ger körtillstånd
+Nykroppa
+
+0749
+
+Daglösen
+0755
+0833
+Tkl ger körtillstånd
+Molkom
+
+0854
+Obevakad
+Kil
+0918
+0943
+Traf.utb
+Högboda
+0957
+1000
+
+Edane
+1012
+1017
+
+Arvika
+1028
+1030
+
+Åmotfors
+
+1044
+
+Charlottenberg
+1053
+
+Går till Charlottenberg Gräns
+
+
+------------------------------------------------------------------------------
+------------
+ANM: 140122 TX Logistik proj 112 v1406-1422
+
+
+
+5 feb 2014 Trafikverket
+
+ 
+BESTYRKES - DP: ...                     TKL: ....................
+ 
+
+ 
+KOPIA MOTTAGEN: ...............................................
+ 
+                                FÖRARE
+ 
+
+ 
+UTFÖRD ÅTGÄRD           SIGN
+ 
+------------------------------------------------------------------------------
+--
+ 
+INF I TKL-BOKEN         ....
+ 
+
+ 
+KVITTO LÄMNAT           ....
+ 
+
+ 
+Blankett för ordergivningsdriftplats vid inställelse av ordinarie tåg i system 
+M/F
+ 
+ 
+ 
+Upplagd                 ....
+ 
+ 
+ 
+Kontroll                .... 

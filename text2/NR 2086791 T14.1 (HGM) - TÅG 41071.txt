@@ -1,0 +1,345 @@
+Från:	trainplan@trafikverket.se
+Skickat:	den 7 februari 2014 09:36
+Till:	Tidtabeller Dlc Malmö
+Ämne:	[NR 2086791] T14.1 (H,G,M) - TÅG 41071
+
+
+TL -- T14.1 -- Trafikverket - NR 2086791 -- 7 feb 2014 09:36:13  -- BLANKETT 
+22
+
+MOTTAGARE:
+Tidtabell TLC Malmö
+
+TÅG 41071 Ska Gå
+Hallsberg Rbg - Värö                              140420, 140502, 140504, 
+140606
+Värö - Malmö Godsbangård                          140421, 140503, 140505, 
+140607
+
+TÅGSLAG GT
+
+ 
+Körplan
+------------------------------------------------------------------------------------------
+TPL
+ANK
+AVG
+ÖVRIGT
+------------------------------------------------------------------------------------------
+Hallsberg Rbg
+
+1942
+
+Tälle
+
+1951
+
+Östansjö
+
+1953
+
+Vretstorp
+
+1957
+
+Linddalen
+
+2001
+
+Laxå
+
+2007
+
+Finnerödja
+
+2016
+
+Gårdsjö
+
+2023
+
+Älgarås
+
+2028
+
+Slätte
+
+2032
+
+Töreboda
+
+2037
+
+Moholm
+
+2046
+
+Väring
+2058
+2115
+
+Skövde c
+
+2132
+
+Regumatorp
+
+2141
+
+Stenstorp
+
+2146
+
+Falköpings c
+
+2156
+
+Floby
+
+2205
+
+Källeryd
+
+2211
+
+Herrljunga
+
+2218
+
+Vårgårda
+
+2227
+
+Algutsgården
+
+2233
+
+Alingsås
+
+2242
+
+Bryngenäs
+
+2247
+
+Norsesund västra
+
+2252
+
+Floda
+
+2257
+
+Lerum
+2303
+2311
+
+Jonsered östra
+
+2317
+
+Partille
+
+2320
+
+Sävedalen
+
+2322
+
+Göteborg Sävenäs
+
+2324
+
+Olskroken
+
+2325
+
+Gubbero
+
+2328
+
+Almedal
+
+2330
+
+Mölndals nedre
+
+2333
+
+Kållered
+
+2336
+
+Lindome
+
+2339
+
+Ledsgård
+
+2342
+
+Kungsbacka
+
+2345
+
+Lekarekulle
+
+2353
+
+Frillesås
+
+2359
+
+Värö
+0008
+0016
+
+Varberg
+
+0029
+
+Hamra
+
+0033
+
+Tyllered
+
+0039
+
+Torebo
+
+0044
+
+Falkenbergs 
+personstation
+
+0048
+
+Heberg
+
+0054
+
+Brännarp
+
+0101
+
+Biskopstorp
+
+0108
+
+Furet
+
+0113
+
+Halmstads c
+
+0115
+
+Halmstad Rangerbangård
+
+0116
+
+Kistinge
+
+0119
+
+Eldsberga
+
+0124
+
+Laholm Västra
+0131
+0201
+
+Båstad Norra
+
+0211
+
+Grevie
+
+0219
+
+Vejbyslätt
+
+0225
+
+Ängelholm
+
+0232
+
+Åstorp
+
+0301
+
+Billesholm
+
+0310
+Obevakad
+Teckomatorp
+
+0331
+
+Kävlinge
+
+0338
+
+Flädie
+
+0344
+
+Arlöv
+
+0351
+
+Malmö Godsbangård
+0354
+
+
+
+
+------------------------------------------------------------------------------
+------------
+ANM: TÅG 40180  K-Möter Även 41071 i Teckomatorp   140421
+
+     HECTOR RAIL
+     Banarbetsanpassning
+     Omledning 40971, ej körbar via N-Hm.
+
+
+
+7 feb 2014 Trafikverket
+
+ 
+BESTYRKES - DP: ...                     TKL: ....................
+ 
+
+ 
+KOPIA MOTTAGEN: ...............................................
+ 
+                                FÖRARE
+ 
+
+ 
+UTFÖRD ÅTGÄRD           SIGN
+ 
+------------------------------------------------------------------------------
+--
+ 
+INF I TKL-BOKEN         ....
+ 
+
+ 
+KVITTO LÄMNAT           ....
+ 
+
+ 
+Blankett för ordergivningsdriftplats vid inställelse av ordinarie tåg i system 
+M/F
+ 
+ 
+ 
+Upplagd                 ....
+ 
+ 
+ 
+Kontroll                .... 

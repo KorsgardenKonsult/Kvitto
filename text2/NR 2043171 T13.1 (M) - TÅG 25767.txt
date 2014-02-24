@@ -1,0 +1,98 @@
+Från:	trainplan@trafikverket.se
+Skickat:	den 22 november 2013 10:16
+Till:	Tidtabeller Dlc Malmö
+Ämne:	[NR 2043171] T13.1 (M) - TÅG 25767
+
+
+TL -- T13.1 -- Trafikverket - NR 2043171 -- 22 nov 2013 10:15:24 -- BLANKETT 
+22
+
+MOTTAGARE:
+TKLEK, TKLHF, TKLHVD, TKLN, Tidtabell TLC Malmö, TGSÖDRA, InfraNord, TLSYD
+
+TÅG 25767 Ska Gå
+Nässjö c - Hultsfred                                     131202-131208: O
+
+TÅGSLAG TJT
+
+ 
+Körplan
+------------------------------------------------------------------------------------------
+TPL
+ANK
+AVG
+ÖVRIGT
+------------------------------------------------------------------------------------------
+Nässjö c
+
+1440
+K-Möter 8568
+Eksjö
+
+1459
+Obevakad 
+Traf.utb
+Hjältevad
+
+1522
+Tkl ger körtillstånd
+Mariannelund
+
+1536
+Obevakad
+Hultsfred
+1559
+
+
+
+
+------------------------------------------------------------------------------
+------------
+ANM: TÅG 6324   K-Möter 25767 i Hultsfred          131202-131208: O
+
+     Infranord IMV100
+     
+     sth 60 Ek-Hf
+     
+     
+     13m
+     25t
+
+
+
+22 nov 2013 Trafikverket
+
+ 
+BESTYRKES - DP: ...                     TKL: ....................
+ 
+
+ 
+KOPIA MOTTAGEN: ...............................................
+ 
+                                FÖRARE
+ 
+
+ 
+UTFÖRD ÅTGÄRD           SIGN
+ 
+------------------------------------------------------------------------------
+--
+ 
+INF I TKL-BOKEN         ....
+ 
+
+ 
+KVITTO LÄMNAT           ....
+ 
+
+ 
+Blankett för ordergivningsdriftplats vid inställelse av ordinarie tåg i system 
+M/F
+ 
+ 
+ 
+Upplagd                 ....
+ 
+ 
+ 
+Kontroll                .... 

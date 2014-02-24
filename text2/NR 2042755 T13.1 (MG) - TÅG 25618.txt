@@ -1,0 +1,91 @@
+Från:	trainplan@trafikverket.se
+Skickat:	den 21 november 2013 15:25
+Till:	Tidtabeller Dlc Malmö
+Ämne:	[NR 2042755] T13.1 (M,G) - TÅG 25618
+
+
+TL -- T13.1 -- Trafikverket - NR 2042755 -- 21 nov 2013 15:24:44 -- BLANKETT 
+22
+
+MOTTAGARE:
+TKLJÖGB, TKLMÅP, TKLVGD, FJTKLG, Tidtabell TLC Malmö, TGSÖDRA, InfraNord
+TLVAST,  TLSYD
+
+TÅG 25618 Ska Gå
+Vaggeryd - Jönköpings c                                  131202-131208: O
+
+TÅGSLAG TJT
+
+ 
+Körplan
+------------------------------------------------------------------------------------------
+TPL
+ANK
+AVG
+ÖVRIGT
+------------------------------------------------------------------------------------------
+Vaggeryd
+
+0924
+K-Möter 8545
+Månsarp
+
+0941
+K-Möter 69787
+Jönköpings godsbangård
+
+0956
+
+Jönköpings c
+1002
+
+
+
+
+------------------------------------------------------------------------------
+------------
+ANM: TÅG 8503   K-Möter 25618 i Jönköpings godsban 131202-131208: O
+
+     Infranord IMV100
+     
+     13m
+     25t
+
+
+
+21 nov 2013 Trafikverket
+
+ 
+BESTYRKES - DP: ...                     TKL: ....................
+ 
+
+ 
+KOPIA MOTTAGEN: ...............................................
+ 
+                                FÖRARE
+ 
+
+ 
+UTFÖRD ÅTGÄRD           SIGN
+ 
+------------------------------------------------------------------------------
+--
+ 
+INF I TKL-BOKEN         ....
+ 
+
+ 
+KVITTO LÄMNAT           ....
+ 
+
+ 
+Blankett för ordergivningsdriftplats vid inställelse av ordinarie tåg i system 
+M/F
+ 
+ 
+ 
+Upplagd                 ....
+ 
+ 
+ 
+Kontroll                .... 

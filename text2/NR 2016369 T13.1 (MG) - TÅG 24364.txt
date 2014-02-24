@@ -1,0 +1,96 @@
+Från:	trainplan@trafikverket.se
+Skickat:	den 14 oktober 2013 14:44
+Till:	Tidtabeller Dlc Malmö
+Ämne:	[NR 2016369] T13.1 (M,G) - TÅG 24364
+
+
+TL -- T13.1 -- Trafikverket - NR 2016369 -- 14 okt 2013 14:44:05 -- BLANKETT 
+22
+
+MOTTAGARE:
+TKLJÖGB, TKLMÅP, TKLVGD, FJTKLG, Tidtabell TLC Göteborg, Tidtabell TLC Malmö
+TGSÖDRA,  CFL cargo,  TLVAST,  TLSYD
+
+TÅG 24364 Ska Gå
+Vaggeryd - Jönköpings c                                  131014-131020: TI
+
+TÅGSLAG GT
+
+ 
+Körplan
+------------------------------------------------------------------------------------------
+TPL
+ANK
+AVG
+ÖVRIGT
+------------------------------------------------------------------------------------------
+Vaggeryd
+
+0440
+
+Månsarp
+
+0502
+Obevakad 
+K-Möter 6323
+Jönköpings godsbangård
+0518
+0527
+
+Jönköpings c
+0533
+
+Till 24569
+
+
+------------------------------------------------------------------------------
+------------
+ANM: TÅG 6313   K-Möter 24364 i Jönköpings godsban 131014-131020: TI
+
+     131014 CFLCargo /Heller
+     Tsä fr spärrfärd 127243
+     
+     Tådkedja 24364-24569
+     
+     System M-kontroll: EG
+     
+     
+
+
+
+14 okt 2013 Trafikverket
+
+ 
+BESTYRKES - DP: ...                     TKL: ....................
+ 
+
+ 
+KOPIA MOTTAGEN: ...............................................
+ 
+                                FÖRARE
+ 
+
+ 
+UTFÖRD ÅTGÄRD           SIGN
+ 
+------------------------------------------------------------------------------
+--
+ 
+INF I TKL-BOKEN         ....
+ 
+
+ 
+KVITTO LÄMNAT           ....
+ 
+
+ 
+Blankett för ordergivningsdriftplats vid inställelse av ordinarie tåg i system 
+M/F
+ 
+ 
+ 
+Upplagd                 ....
+ 
+ 
+ 
+Kontroll                .... 
