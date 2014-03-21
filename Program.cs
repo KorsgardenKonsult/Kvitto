@@ -33,70 +33,91 @@ namespace Kvitto
                 System.Environment.Exit(0);
             }
 
-            int rxState = (int) rxTypes.undefined;
+            int rxState = (int)rxTypes.undefined;
             string jsonKvitto = "{\"tagPlaner\": [";
-                       
+
             foreach (string filename in System.IO.Directory.EnumerateFiles(args[0]))
             {
-                int numDiv = 0;
-                IParsedPlan pPlan = new ParsedPlan();
-                IRunPlan rPlan = null;
-                IKvitto kvitto = new Kvitto();
-                
-
-
+                bool firstFrom = true;
                 Console.WriteLine("Filnamn: " + filename);
                 Console.WriteLine();
                 StreamReader sr = new StreamReader(filename);
-                string line;
-                Regex rxTL = new Regex(@"TL -- (?<tl>[0-9a-zA-ZåäöÅÄÖ:\. ]+) -- Trafikverket - NR (?<ordernr>[0-9]+) -- (?<datum>[0-9a-zA-ZåäöÅÄÖ:\. ]+) --");
-                Regex rxMottagare = new Regex(@"^(?<mottagare>MOTTAGARE:)");
-                Regex rxTag = new Regex(@"^TÅG (?<tagnr>[0-9]+) (?<typ>(Ska Gå|SKA INSTÄLLAS))");
-                Regex rxTagslag = new Regex(@"^TÅGSLAG (?<tagslag>[A-Z]+)");
-                Regex rxKorplan = new Regex(@"^(?<korplan>Körplan)");
-                Regex rxEnd = new Regex(@"^(?<end>ANM:)");
-                while ((line = sr.ReadLine()) != null)
+                string kvStr = sr.ReadToEnd();
+                string[] kvStrs = kvStr.Split(new char[] { '\n', '\r', '\t' });
+                Queue<string> kvQStrs = new Queue<string>();
+                foreach (string tmp in kvStrs)
                 {
-                    MatchCollection mc = rxTL.Matches(line);
-                    if (mc.Count > 0)
-                    {
-                        Console.WriteLine(line);
-                        rxState = (int)rxTypes.tl;
-                    }
+                    if (!tmp.Equals(""))
+                        kvQStrs.Enqueue(tmp);
+                }
+                string[] kvittoStrs = kvQStrs.ToArray();
 
-                    mc = rxMottagare.Matches(line);
-                    if (mc.Count > 0)
+                // loop over From:/Från: until kvitoStr at end of string
+                foreach (string line in kvittoStrs) 
+                {
+
+                    int numDiv = 0;
+                    IParsedPlan pPlan = new ParsedPlan();
+                    IRunPlan rPlan = null;
+                    IKvitto kvitto = new Kvitto();
+                    Regex rxTL = new Regex(@"TL -- (?<tl>[0-9a-zA-ZåäöÅÄÖ:\. ]+) -- Trafikverket - NR (?<ordernr>[0-9]+) -- (?<datum>[0-9a-zA-ZåäöÅÄÖ:\. ]+) --");
+                    Regex rxMottagare = new Regex(@"^(?<mottagare>MOTTAGARE:)");
+                    Regex rxTag = new Regex(@"^TÅG (?<tagnr>[0-9]+) (?<typ>(Ska Gå|SKA INSTÄLLAS))");
+                    Regex rxTagslag = new Regex(@"^TÅGSLAG (?<tagslag>[A-Z]+)");
+                    Regex rxKorplan = new Regex(@"^(?<korplan>Körplan)");
+                    Regex rxAnm = new Regex(@"^(?<end>ANM:)");
+                    Regex rxNext = new Regex(@"^Från:");
+                    while (true) 
                     {
-                        Console.WriteLine(line);
-                        rxState = (int)rxTypes.mottagare;
-                    }
-                    mc = rxTag.Matches(line);
-                    if (mc.Count > 0)
-                    {
-                        Console.WriteLine(line);
-                        rxState = (int)rxTypes.tag1;
-                    }
-                    mc = rxTagslag.Matches(line);
-                    if (mc.Count > 0)
-                    {
-                        Console.WriteLine(line);
-                        rxState = (int)rxTypes.tagslag;
-                    }
-                    mc = rxKorplan.Matches(line);
-                    if (mc.Count > 0)
-                    {
-                        Console.WriteLine(line);
-                        rxState = (int)rxTypes.korplan;
-                    }
-                    mc = rxEnd.Matches(line);
-                    if (mc.Count > 0)
-                    {
-                        Console.WriteLine(line);
-                        rxState = (int)rxTypes.anm;
-                    }
-                    switch (rxState)
-                    {
-                        case (int)rxTypes.tl:
+                        MatchCollection mc = rxTL.Matches(line);
+                        if (mc.Count > 0)
+                        {
+                            Console.WriteLine(line);
+                            rxState = (int)rxTypes.tl;
+                        }
+
+                        mc = rxMottagare.Matches(line);
+                        if (mc.Count > 0)
+                        {
+                            Console.WriteLine(line);
+                            rxState = (int)rxTypes.mottagare;
+                        }
+                        mc = rxTag.Matches(line);
+                        if (mc.Count > 0)
+                        {
+                            Console.WriteLine(line);
+                            rxState = (int)rxTypes.tag1;
+                        }
+                        mc = rxTagslag.Matches(line);
+                        if (mc.Count > 0)
+                        {
+                            Console.WriteLine(line);
+                            rxState = (int)rxTypes.tagslag;
+                        }
+                        mc = rxKorplan.Matches(line);
+                        if (mc.Count > 0)
+                        {
+                            Console.WriteLine(line);
+                            rxState = (int)rxTypes.korplan;
+                        }
+                        mc = rxAnm.Matches(line);
+                        if (mc.Count > 0)
+                        {
+                            Console.WriteLine(line);
+                            rxState = (int)rxTypes.anm;
+                        }
+                        mc = rxNext.Matches(line);
+                        if (mc.Count > 0)
+                        {
+                            Console.WriteLine(line);
+                            rxState = (int)rxTypes.undefined;
+                            if (!firstFrom)
+                                break; // start new Kvitto meddelande
+                            firstFrom = false;
+                        }
+
+                        if (rxState == (int)rxTypes.tl)
+                        {
                             MatchCollection tlMc = rxTL.Matches(line);
                             if (tlMc.Count > 0)
                             {
@@ -105,8 +126,9 @@ namespace Kvitto
                                 string datum = tlMc[0].Groups["datum"].Value;
                                 kvitto.AddTL(tl, ordernr, datum);
                             }
-                            break;
-                        case (int)rxTypes.mottagare:
+                        }
+                        else if (rxState == (int)rxTypes.mottagare)
+                        {
                             Regex rxMottagarLista = new Regex(@"(?<mottagare>[0-9a-zA-ZåäöÅÄÖ ]+)[,]*");
                             MatchCollection mMc = rxMottagarLista.Matches(line);
                             if (mMc.Count > 0)
@@ -121,19 +143,21 @@ namespace Kvitto
                                 }
                             }
                             Console.WriteLine();
-                            break;
-                        case (int)rxTypes.tag1:
+                        }
+                        else if (rxState == (int)rxTypes.tag1)
+                        {
                             MatchCollection tagMc = rxTag.Matches(line);
                             if (tagMc.Count > 0)
-                            {                                
+                            {
                                 string tagnr = tagMc[0].Groups["tagnr"].Value.Trim();
                                 string typ = tagMc[0].Groups["typ"].Value.Trim();
                                 kvitto.AddTag(tagnr, typ);
                                 rxState = (int)rxTypes.tag2;
                             }
                             Console.WriteLine(line);
-                            break;
-                        case (int)rxTypes.tag2:
+                        }
+                        else if (rxState == (int)rxTypes.tag2)
+                        {
                             Regex rxTagInfo = new Regex(@"(?<fromtpl>[a-zA-ZåäöÅÄÖ ]+)\-(?<totpl>[a-zA-ZåäöÅÄÖ ]+)[  ]+(?<from>[0-9]+)\-(?<to>[0-9]+): (?<gangdagar>[A-Z\-]+)");
                             MatchCollection tInfoMc = rxTagInfo.Matches(line);
                             if (tInfoMc.Count > 0)
@@ -146,16 +170,18 @@ namespace Kvitto
                                 tagInfo.gangdagar = tInfoMc[0].Groups["gangdagar"].Value.Trim();
                                 kvitto.AddTagInfo(tagInfo);
                             }
-                            break;
-                        case (int)rxTypes.tagslag:
+                        }
+                        else if (rxState == (int)rxTypes.tagslag)
+                        {
                             MatchCollection tagslagMc = rxTagslag.Matches(line);
                             if (tagslagMc.Count > 0)
                             {
                                 kvitto.AddTagslag(tagslagMc[0].Groups["tagslag"].Value.Trim());
                             }
                             Console.WriteLine(line);
-                            break;
-                        case (int)rxTypes.korplan:
+                        }
+                        else if (rxState == (int)rxTypes.korplan)
+                        {
                             Regex rxDiv = new Regex(@"(?<div>[\-]{4})");
                             Regex rxAct = new Regex(@"(Traf.utb|Obevakad|Tkl ger körtillstånd|Går från [a-zA-ZåäöÅÄÖ]+|K-Möter [0-9]+|K-Möter Ej [0-9]+|\([0-9]+\-[0-9]+:|På\/Av|Fjärrbevakad)");
                             Regex rxHpl = new Regex(@"(?<hpl>[a-zA-ZåäöÅÄÖ]+)");
@@ -215,8 +241,9 @@ namespace Kvitto
                             {
                                 Console.WriteLine("------------------------------------------------------------------------------");
                             }
-                            break;
-                        case (int)rxTypes.anm:
+                        }
+                        else if (rxState == (int)rxTypes.anm)
+                        {
                             Regex rxANM = new Regex(@"TÅG[ ]+(?<tagnr>[0-9]+)[ ]+(K\-Möter|K\-Möter Även)[ ]+(?<kmoternr>[0-9]+)[ ]+i[ ]+(?<hpl>[a-zA-ZåäöÅÄÖ]+)[ ]+(?<from>[0-9]+)(\-(?<to>[0-9]+)\:[ ]+(?<dag>[A-ZÅÄÖ]+)){0,1}");
                             MatchCollection anmMc = rxANM.Matches(line);
                             if (anmMc.Count > 0)
@@ -230,19 +257,16 @@ namespace Kvitto
                                 Console.WriteLine(line);
                             }
                             //end_state = false;
-                            break;
-                        default:
-                            break;
+                        }
                     }
+                    jsonKvitto += kvitto.toJson() + ",";
+                    Console.WriteLine(kvitto.toJson());
+                    Console.WriteLine();
+                    Console.WriteLine("##############################################################################################");
+                    Console.WriteLine();
                 }
-                
-                jsonKvitto += kvitto.toJson() + ",";
-                Console.WriteLine(kvitto.toJson());
-                Console.WriteLine();
-                Console.WriteLine("##############################################################################################");
-                Console.WriteLine();
             }
-            jsonKvitto = jsonKvitto.TrimEnd(new char[] {','});
+            jsonKvitto = jsonKvitto.TrimEnd(new char[] { ',' });
             jsonKvitto += "]}";
             System.IO.StreamWriter sw = new StreamWriter(args[1]);
             sw.Write(jsonKvitto);
